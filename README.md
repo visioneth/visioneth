@@ -92,6 +92,32 @@ If you find them useful, consider signing up on BloFin through my link. If not, 
 
 ---
 
+## Custom Builds -- Hire Me
+
+**15 years of coding. Pre-AI and now building with AI.**
+
+I build custom tools, bots, and trading systems. If you can describe it, I can build it.
+
+| What I Build | Examples |
+|-------------|---------|
+| **Trading Bots** | CEX/DEX execution, signal bots, copy trading systems, grid bots, funding arb |
+| **MEV / DeFi** | Sandwich bots, arbitrage scanners, liquidation hunters, flash loan strategies |
+| **AI Integration** | Claude, GPT, Grok, DeepSeek -- integrated into any workflow or product |
+| **Data Pipelines** | Real-time WebSocket feeds, whale tracking, on-chain analytics, multi-source aggregation |
+| **Telegram/Discord Bots** | Alert systems, trading dashboards, community tools, payment integration |
+| **Full-Stack Apps** | Web dashboards, landing pages, APIs, database design |
+
+**What makes me different:**
+- I don't just write code -- I run my own trading operation. I know what works because I use it daily.
+- 44+ API integrations already built and battle-tested
+- ML/AI experience: XGBoost, LightGBM, Neural Nets, ensemble models, RL agents
+- Multi-chain: Solana, Ethereum, Base, BSC
+- Real-time systems running 17 autonomous processes on an RTX 5090
+
+**Want something built? DM me.** Describe what you need. I'll tell you if I can do it, how long it'll take, and what it costs. No BS.
+
+---
+
 ## Contact
 
 - **Discord**: Vision33X
@@ -99,4 +125,4 @@ If you find them useful, consider signing up on BloFin through my link. If not, 
 - **BloFin Copy Trading**: Vision33X
 - **Referral Code**: **Vision33X**
 
-*South Florida. Building with AI. Making it work.*
+*South Florida. 15 years coding. Building with AI. Making it work.*
