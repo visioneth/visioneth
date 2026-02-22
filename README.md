@@ -15,7 +15,7 @@ I run an AI-powered copy trading operation on BloFin. My bots scan 360+ coins, f
 | What You Get | Details |
 |-------------|---------|
 | **Copy my trades** | Every trade I make, you mirror automatically |
-| **88%+ win rate** | RSI extreme fade strategy, backtested across 138+ trades |
+| **88% win rate** | 22W/3L across 25 tracked copy trades, live since Feb 2026 |
 | **Reduced fees** | Maker: 0.02% / Taker: 0.06% (VIP affiliate rates) |
 | **No setup needed** | Sign up, deposit, follow Vision33X. That's it. |
 
@@ -30,9 +30,9 @@ I run an AI-powered copy trading operation on BloFin. My bots scan 360+ coins, f
 | Tool | What It Does | Status |
 |------|-------------|--------|
 | [**Solana MEV Bot**](https://github.com/visioneth/V33X-Solana-MEV) | Automated DEX sandwich extraction. 20+ opportunities/minute. Jito atomic bundles. | **For Sale -- DM** |
-| [**RSI Scanner**](https://github.com/visioneth/V33X-RSI-Scanner) | Scans 360+ crypto pairs for RSI extremes in real-time. | **Free** |
-| [**Whale Shield**](https://github.com/visioneth/V33X-Whale-Shield) | Multi-chain whale wallet tracker. ETH + SOL. | **Free** |
-| [**Pine Scripts**](https://github.com/visioneth/V33X-Pine-Scripts) | TradingView strategies. RSI, EMA, ADX. Backtested. | **Free** |
+| [**RSI Scanner**](https://github.com/visioneth/V33X-RSI-Scanner) | RSI scanner + funding rate scanner + kill zone analyzer. 360+ coins. | **Free** |
+| [**Whale Shield**](https://github.com/visioneth/V33X-Whale-Shield) | Whale wallet tracker + exchange flow detector. ETH + SOL. | **Free** |
+| [**Pine Scripts**](https://github.com/visioneth/V33X-Pine-Scripts) | TradingView strategies + kill zone overlay. RSI, EMA, ADX. | **Free** |
 
 ---
 
