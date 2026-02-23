@@ -1,128 +1,80 @@
-# V33X Beast Pack
+# visioneth
 
-**AI-Powered Crypto Trading Intelligence**
-
-I build autonomous trading systems that run 24/7. AI does the scanning, detecting, and executing. I built the infrastructure so I don't have to stare at charts.
+**AI-powered crypto trading. Running 24/7 on an RTX 5090. Real money. Real results.**
 
 ---
 
-## Trade With Me on BloFin
+## Start Here
 
-I run an AI-powered copy trading operation on BloFin. My bots scan 360+ coins, find RSI extremes, and execute trades with automated TP/SL. You copy my trades automatically -- when I win, you win.
+### [Claude Crypto Prompts](https://github.com/visioneth/claude-crypto-prompts) -- Free
 
-### **[Sign Up With Code: Vision33X](https://partner.blofin.com/d/Vision33X)**
+The exact prompts I use with Claude + Grok for every live trade decision.
+Dual-AI framework. Entry validation. Exit management. Psychology checks.
+**Built from 60+ days of live trading with real money.**
 
-| What You Get | Details |
-|-------------|---------|
-| **Copy my trades** | Every trade I make, you mirror automatically |
-| **88% win rate** | 22W/3L across 25 tracked copy trades, live since Feb 2026 |
-| **Reduced fees** | Maker: 0.02% / Taker: 0.06% (VIP affiliate rates) |
-| **No setup needed** | Sign up, deposit, follow Vision33X. That's it. |
+Drop a star if the prompts help you.
 
-**How it works**: Sign up on BloFin using my referral code **Vision33X** -> Go to Copy Trading -> Search "Vision33X" -> Click Follow -> Set your copy amount -> Done. My AI does the rest.
+---
 
-**[Sign up here: partner.blofin.com/d/Vision33X](https://partner.blofin.com/d/Vision33X)**
+## Copy Trade Me (Live Record)
+
+**BloFin Copy Trading: Vision33X**
+
+| Metric | Value |
+|--------|-------|
+| Win Rate | 88% |
+| Trades | 25 (22W / 3L) |
+| Strategy | RSI extremes + Kill zones |
+| Since | February 2026 |
+
+Every trade I make, you can copy automatically.
+AI does the scanning. I manage the risk. You follow.
+
+**[Start copying: partner.blofin.com/d/Vision33X](https://partner.blofin.com/d/Vision33X)**
+Use code **Vision33X** for reduced fees.
 
 ---
 
 ## What I Build
 
-| Tool | What It Does | Status |
+| Repo | Description | Access |
 |------|-------------|--------|
-| [**Solana MEV Bot**](https://github.com/visioneth/V33X-Solana-MEV) | Automated DEX sandwich extraction. 20+ opportunities/minute. Jito atomic bundles. | **For Sale -- DM** |
-| [**RSI Scanner**](https://github.com/visioneth/V33X-RSI-Scanner) | RSI scanner + funding rate scanner + kill zone analyzer. 360+ coins. | **Free** |
-| [**Whale Shield**](https://github.com/visioneth/V33X-Whale-Shield) | Whale wallet tracker + exchange flow detector. ETH + SOL. | **Free** |
-| [**Pine Scripts**](https://github.com/visioneth/V33X-Pine-Scripts) | TradingView strategies + kill zone overlay. RSI, EMA, ADX. | **Free** |
+| [claude-crypto-prompts](https://github.com/visioneth/claude-crypto-prompts) | Claude + Grok prompts for live trading decisions | Free |
+| [V33X-Pine-Scripts](https://github.com/visioneth/V33X-Pine-Scripts) | TradingView: RSI Extreme, EMA, Kill Zone overlay | Free |
+| RSI Scanner (private) | Real-time RSI extreme scanner -- 360 pairs | DM |
+| Whale Shield (private) | Multi-chain whale wallet tracker | DM |
+| Solana MEV Bot (private) | DEX sandwich bot, Jito atomic bundles | DM |
 
 ---
 
 ## The Stack
 
 - **Hardware**: RTX 5090 + Ryzen 9800X3D (The Beast PC)
-- **AI**: Claude Opus + Grok + custom ML ensemble (XGBoost, LightGBM, Neural Net)
-- **Exchange**: BloFin -- perpetual futures, copy trading, signal bots
-- **Chains**: Solana (MEV), Ethereum (whale tracking), Base (arb scanning)
-- **Data**: 44+ signal sources, WebSocket feeds, CoinGlass, CryptoQuant, on-chain analytics
-- **Running**: 17 autonomous processes 24/7
+- **AI**: Claude Opus 4.6 (primary brain) + Grok grok-4 (live intel) + DeepSeek R1 32B (local, no latency)
+- **Exchange**: BloFin -- perp futures, copy trading
+- **Data**: 44+ signal sources, WebSocket feeds, CoinGlass, on-chain analytics
+- **Languages**: Python (392 scripts), Pine Script
 
 ---
 
-## Copy Trading Strategy
+## The Edge (Backtested + Live)
 
-**Profile**: Vision33X on BloFin Copy Trading
+| Signal | Win Rate | Notes |
+|--------|----------|-------|
+| BTC RSI > 90 SHORT | 66.7% | Only enter at true extremes |
+| SOL RSI < 10 LONG | 67.6% | Mean reversion at oversold |
+| DOGE RSI > 90 SHORT | 65.6% | Highest volume extreme reversal |
+| 20:00 UTC SHORT | 98.4% | Kill zone -- institutional flow |
 
-My system scans every coin on BloFin every 5 minutes. When RSI hits extreme levels (>85 overbought or <15 oversold), the bot fires a trade with automatic TP/SL. The edge is simple: extreme RSI snaps back. It's mean reversion, powered by AI.
-
-**Backtested Results:**
-
-| Signal | Win Rate | Strategy |
-|--------|----------|----------|
-| BTC RSI > 90 | 66.7% | SHORT |
-| SOL RSI < 10 | 67.6% | LONG |
-| DOGE RSI > 90 | 65.6% | SHORT |
-| DOGE RSI < 15 | 61.1% | LONG |
-
-Every trade has a stop loss. Every winner gets closed green. The AI monitors 24/7 -- I don't have to sit at a screen.
-
-**[Start copying: partner.blofin.com/d/Vision33X](https://partner.blofin.com/d/Vision33X)**
+AI finds the extreme. Human confirms. System executes. Copiers follow.
 
 ---
 
-## MEV Bot Access
+## Follow
 
-The Solana MEV bot detects large DEX swaps and executes profitable sandwiches using Jito atomic bundles. Zero inventory risk -- buy before the target, sell after, same block.
-
-**Pricing**: See the [V33X-Solana-MEV](https://github.com/visioneth/V33X-Solana-MEV) repo for tiers.
-
-DM for access.
+- X: [@Vision33X](https://x.com/Vision33X)
+- BloFin: [Vision33X Copy Trading](https://partner.blofin.com/d/Vision33X)
 
 ---
 
-## Free Tools -- No Catch
-
-Everything in the free repos actually works. No email gates, no paywalls on the basics.
-
-- **RSI Scanner**: `pip install requests && python rsi_scanner.py` -- Scans 360+ coins, no API key needed
-- **Whale Tracker**: Monitors exchange whale wallets on ETH and SOL
-- **Pine Scripts**: Copy-paste into TradingView, start getting signals immediately
-
-If you find them useful, consider signing up on BloFin through my link. If not, enjoy the free tools.
-
-**[BloFin Sign-Up: partner.blofin.com/d/Vision33X](https://partner.blofin.com/d/Vision33X)**
-
----
-
-## Custom Builds -- Hire Me
-
-**15 years of coding. Pre-AI and now building with AI.**
-
-I build custom tools, bots, and trading systems. If you can describe it, I can build it.
-
-| What I Build | Examples |
-|-------------|---------|
-| **Trading Bots** | CEX/DEX execution, signal bots, copy trading systems, grid bots, funding arb |
-| **MEV / DeFi** | Sandwich bots, arbitrage scanners, liquidation hunters, flash loan strategies |
-| **AI Integration** | Claude, GPT, Grok, DeepSeek -- integrated into any workflow or product |
-| **Data Pipelines** | Real-time WebSocket feeds, whale tracking, on-chain analytics, multi-source aggregation |
-| **Telegram/Discord Bots** | Alert systems, trading dashboards, community tools, payment integration |
-| **Full-Stack Apps** | Web dashboards, landing pages, APIs, database design |
-
-**What makes me different:**
-- I don't just write code -- I run my own trading operation. I know what works because I use it daily.
-- 44+ API integrations already built and battle-tested
-- ML/AI experience: XGBoost, LightGBM, Neural Nets, ensemble models, RL agents
-- Multi-chain: Solana, Ethereum, Base, BSC
-- Real-time systems running 17 autonomous processes on an RTX 5090
-
-**Want something built? DM me.** Describe what you need. I'll tell you if I can do it, how long it'll take, and what it costs. No BS.
-
----
-
-## Contact
-
-- **Discord**: Vision33X
-- **X/Twitter**: @V33X_Beast
-- **BloFin Copy Trading**: Vision33X
-- **Referral Code**: **Vision33X**
-
-*South Florida. 15 years coding. Building with AI. Making it work.*
+*Not financial advice. Trade at your own risk.*
