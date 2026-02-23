@@ -1,80 +1,101 @@
-# visioneth
+# Hi. I'm building a trading intelligence system that actually works.
 
-**AI-powered crypto trading. Running 24/7 on an RTX 5090. Real money. Real results.**
-
----
-
-## Start Here
-
-### [Claude Crypto Prompts](https://github.com/visioneth/claude-crypto-prompts) -- Free
-
-The exact prompts I use with Claude + Grok for every live trade decision.
-Dual-AI framework. Entry validation. Exit management. Psychology checks.
-**Built from 60+ days of live trading with real money.**
-
-Drop a star if the prompts help you.
+**RTX 5090. 44 data sources. 3 AI models. Real money. Real record.**
 
 ---
 
-## Copy Trade Me (Live Record)
+## Live Copy Trading Record
 
-**BloFin Copy Trading: Vision33X**
-
-| Metric | Value |
-|--------|-------|
-| Win Rate | 88% |
-| Trades | 25 (22W / 3L) |
-| Strategy | RSI extremes + Kill zones |
-| Since | February 2026 |
-
+```
+Vision33X on BloFin
+─────────────────────────────────
+Win Rate:   88% (22W / 3L, 25 trades)
+Strategy:   RSI extremes + Kill zones
+Leverage:   10-25x with SL on every trade
+Started:    February 2026
+─────────────────────────────────
 Every trade I make, you can copy automatically.
-AI does the scanning. I manage the risk. You follow.
+```
 
-**[Start copying: partner.blofin.com/d/Vision33X](https://partner.blofin.com/d/Vision33X)**
-Use code **Vision33X** for reduced fees.
-
----
-
-## What I Build
-
-| Repo | Description | Access |
-|------|-------------|--------|
-| [claude-crypto-prompts](https://github.com/visioneth/claude-crypto-prompts) | Claude + Grok prompts for live trading decisions | Free |
-| [V33X-Pine-Scripts](https://github.com/visioneth/V33X-Pine-Scripts) | TradingView: RSI Extreme, EMA, Kill Zone overlay | Free |
-| RSI Scanner (private) | Real-time RSI extreme scanner -- 360 pairs | DM |
-| Whale Shield (private) | Multi-chain whale wallet tracker | DM |
-| Solana MEV Bot (private) | DEX sandwich bot, Jito atomic bundles | DM |
+**[Start copying → partner.blofin.com/d/Vision33X](https://partner.blofin.com/d/Vision33X)**
+Use code **Vision33X** for 20% fee discount.
 
 ---
 
-## The Stack
+## The Edges (Backtested + Live)
 
-- **Hardware**: RTX 5090 + Ryzen 9800X3D (The Beast PC)
-- **AI**: Claude Opus 4.6 (primary brain) + Grok grok-4 (live intel) + DeepSeek R1 32B (local, no latency)
-- **Exchange**: BloFin -- perp futures, copy trading
-- **Data**: 44+ signal sources, WebSocket feeds, CoinGlass, on-chain analytics
-- **Languages**: Python (392 scripts), Pine Script
+| Signal | Win Rate | Trades | Notes |
+|--------|----------|--------|-------|
+| 20:00 UTC SHORT (Kill Zone) | **98.4%** | 65 | Most powerful pattern found |
+| 10:00 UTC SHORT (Kill Zone) | 88.9% | 65 | US pre-market open |
+| BTC RSI > 90 SHORT | 66.7% | 138 | Only true extremes count |
+| SOL RSI < 10 LONG | 67.6% | 138 | Mean reversion at oversold |
+| DOGE RSI > 90 SHORT | 65.6% | 138 | High volume = cleaner signal |
 
----
-
-## The Edge (Backtested + Live)
-
-| Signal | Win Rate | Notes |
-|--------|----------|-------|
-| BTC RSI > 90 SHORT | 66.7% | Only enter at true extremes |
-| SOL RSI < 10 LONG | 67.6% | Mean reversion at oversold |
-| DOGE RSI > 90 SHORT | 65.6% | Highest volume extreme reversal |
-| 20:00 UTC SHORT | 98.4% | Kill zone -- institutional flow |
-
-AI finds the extreme. Human confirms. System executes. Copiers follow.
+Data from **138 real trades** and **65+ kill zone observations**. Not a backtest on a backtest.
 
 ---
 
-## Follow
+## What's Publicly Available (Free)
 
-- X: [@Vision33X](https://x.com/Vision33X)
-- BloFin: [Vision33X Copy Trading](https://partner.blofin.com/d/Vision33X)
+| Repo | What It Is |
+|------|------------|
+| [crypto-kill-zones](https://github.com/visioneth/crypto-kill-zones) | Full statistical breakdown of the 4 kill zones |
+| [rsi-extreme-edge](https://github.com/visioneth/rsi-extreme-edge) | RSI reversal data, coin by coin |
+| [claude-crypto-prompts](https://github.com/visioneth/claude-crypto-prompts) | AI prompts for entry/exit decisions |
+| [V33X-Pine-Scripts](https://github.com/visioneth/V33X-Pine-Scripts) | TradingView indicators, free to use |
+| [awesome-blofin-trading](https://github.com/visioneth/awesome-blofin-trading) | Curated BloFin resources |
 
 ---
 
-*Not financial advice. Trade at your own risk.*
+## The Setup
+
+```
+HARDWARE:  RTX 5090 + Ryzen 9800X3D (South Florida)
+AI STACK:  Claude Opus 4.6 (primary) + Grok grok-4 (live intel)
+           + DeepSeek R1 32B (local, no latency)
+DATA:      44+ sources: CoinGlass, WebSocket feeds,
+           on-chain analytics, whale wallets, X/Twitter intel
+CODE:      392 Python scripts, Pine Script, WebSocket bots
+EXCHANGE:  BloFin perp futures + copy trading
+```
+
+---
+
+## What I Learned Losing $780
+
+In 60 days I hopped between 12+ strategies. Each felt like the answer. None were.
+
+The loss taught me 3 things:
+
+1. **Entries aren't the problem.** RSI extremes find good entries every time.
+2. **Exits are everything.** Knowing when to hold vs. when to close is the actual edge.
+3. **One strategy. Tweaked. Not replaced.** Every time I switched I reset the clock.
+
+That's in the repos. That's in the copy trading record.
+
+---
+
+## Current Market Read (Feb 23, 2026)
+
+```
+Fear & Greed: 5  <- 22 straight days of extreme fear
+BTC: $65,675     <- RSI 1H = 37 (approaching oversold)
+ETH: $1,878      <- RSI 1H = 31
+SOL: $78.95      <- RSI 1H = 30
+
+Whales bought 66,940 BTC ($4.4B) when Fear = 9.
+Institutions at extreme net long positions (CME data).
+Macro uncertainty driving fear, not crypto-specific failures.
+```
+
+---
+
+## Follow the Build
+
+- X / Twitter: [@Vision33X](https://x.com/Vision33X) — live signals, kill zone alerts, whale moves
+- BloFin Copy Trading: [Vision33X](https://partner.blofin.com/d/Vision33X)
+
+---
+
+*Not financial advice. I trade my own money with proper risk management. Do the same.*
