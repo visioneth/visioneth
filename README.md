@@ -120,3 +120,36 @@ Funding:       Positive across board — shorts collecting
 ---
 
 *Not financial advice. I trade my own money with real risk management.*
+
+---
+
+## 🛠️ Available for Custom Builds — DM to Hire
+
+Bear market or bull market, these tools make money either way.
+
+**What I build:**
+
+| Service | What It Does |
+|---------|-------------|
+| **Solana MEV Bot** | Sandwich attacks, liquidation sniping, Jito bundle execution |
+| **ETH Arbitrage Bot** | Cross-DEX arbitrage, flash loan strategies, Uniswap/Curve |
+| **Whale Alert System** | Real-time on-chain tracking, custom wallet watchlists, Telegram alerts |
+| **BloFin / Exchange API Bot** | Automated entries, copy trading, RSI scanners, kill zone bots |
+| **Liquidation Cascade Detector** | Identifies large liquidation clusters before price moves |
+| **Funding Rate Arb Bot** | Captures positive funding on perpetuals automatically |
+| **Custom RSI / Signal Scanner** | Any exchange, any timeframe, any threshold |
+| **Bear Market SHORT System** | RSI extreme fades + kill zone entries, backtested and live |
+| **TradingView Indicators** | Custom Pine Script — signals, overlays, webhook alerts |
+| **Portfolio Risk Manager** | Position sizing, drawdown protection, equity floor enforcement |
+
+**Bear market specific — what people need right now:**
+- Tools that profit going DOWN (short bots, put strategies)
+- Liquidation hunters (profit from overleveraged traders blowing up)
+- Fear & Greed automated entries (buy extreme fear, short extreme greed)
+- Funding arb (earn yield in sideways/down markets)
+
+> **DM [@Vision33X](https://x.com/Vision33X) on X to discuss your project**
+
+Solana, Ethereum, BloFin, Hyperliquid, any chain. Custom built, tested, delivered.
+
+---
