@@ -117,15 +117,15 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (Feb 24, 2026)
+## Current Market (Feb 28, 2026)
 
 ```
-BTC:  $62,935   down -5.0% today
-ETH:  $1,823    down -5.0%
-SOL:  $76.59    down -5.1%
-DOGE: $0.091    down -6.2%
+BTC:  $67,734   up +2.7% today
+ETH:  $2,038    up +5.6%
+SOL:  $87.95    up +7.3%
+DOGE: $0.097    up +3.6%
 
-Fear & Greed:  EXTREME FEAR
+Fear & Greed:  EXTREME FEAR (14)
 Funding:       Positive — shorts collecting
 ```
 
