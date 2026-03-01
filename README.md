@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=650&lines=88%25+CT+Win+Rate+on+BloFin+%F0%9F%8F%86;98.4%25+SHORT+Win+Rate+at+20%3A00+UTC;2%2C000%2B+Verified+Crypto+Whale+Wallets;44+Signal+Sources+%7C+RTX+5090+Powered;RSI+Extremes+%7C+Kill+Zones+%7C+Funding+Arb" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=650&lines=88%25+CT+Win+Rate+on+BloFin+%F0%9F%8F%86;98.4%25+SHORT+Win+Rate+at+20%3A00+UTC;2%2C000%2B+Verified+Crypto+Whale+Wallets;RTX+5090+%2B+PyTorch+%7C+Training+24%2F7;RSI+Extremes+%7C+Kill+Zones+%7C+Funding+Arb" />
 </p>
 
 <p align="center">
@@ -20,6 +20,24 @@
 
 ---
 
+## Currently Building
+
+```
+March 2026 — Active Projects
+```
+
+| Project | Status | What It Does |
+|---------|--------|-------------|
+| **Autonomous Signal Learner** | `TRAINING` | Transformer + DQN agent learning HOLD/LONG/SHORT from live 5m data. Runs 24/7 on RTX 5090 |
+| **Signal Engine v2** | `LIVE` | Scans 1,000+ coins via CoinGlass funding extremes + RSI. Found -156% funding plays |
+| **Volatile Scalper** | `TESTING` | Catches extreme funding pumps/dumps with tight SL. 20x, 5-min max hold |
+| **Pine Script Suite** | `SHIPPED` | TradingView indicators — RSI Extreme alerts, Kill Zone overlays, webhook triggers |
+| **Whale Database** | `2,000+ wallets` | BTC + ETH + Solana whale addresses, categorized by activity pattern |
+
+> I build tools, test them with real money, and share what works. Everything here is battle-tested.
+
+---
+
 ## Live Copy Trading Record
 
 | Metric | Value |
@@ -29,12 +47,12 @@
 | RSI Extreme (BTC > 90 SHORT) | 66.7% WR across 138 trades |
 | RSI Extreme (SOL < 10 LONG) | 67.6% WR across 138 trades |
 | Signal Sources | 44+ (CoinGlass, Whale Alert, OI, Funding, On-chain) |
-| Hardware | RTX 5090 + Ryzen 9800X3D |
+| Hardware | RTX 5090 + Ryzen 9800X3D (32GB VRAM) |
 | Exchange | BloFin perpetuals + copy trading |
 
 > All edges backtested on real OHLCV data. Real account. Real record.
 
-**[→ Copy my trades on BloFin — Vision33X](https://partner.blofin.com/d/Vision33X)**
+**[Copy my trades on BloFin — Vision33X](https://partner.blofin.com/d/Vision33X)**
 Use code **Vision33X** for 20% fee discount.
 
 ---
@@ -51,7 +69,7 @@ Use code **Vision33X** for 20% fee discount.
 
 ---
 
-## 🐋 Follow the Whales — Premium Database
+## Follow the Whales — Premium Database
 
 **2,000+ verified crypto whale wallets across BTC, ETH, and Solana.**
 
@@ -61,9 +79,9 @@ Smart money wallets that moved markets in 2024-2025. When they accumulate, price
 
 ---
 
-## 📖 Solana MEV Bots — The Book *(Coming Soon)*
+## Solana MEV Bots — The Book *(Coming Soon)*
 
-Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle mechanics. Written from building real bots.
+Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle mechanics. Written from building real bots on mainnet.
 
 > Early access: DM **[@Vision33X](https://x.com/Vision33X)** on X
 
@@ -73,11 +91,11 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 | Repo | What's Inside |
 |------|---------------|
-| [crypto-kill-zones](https://github.com/visioneth/crypto-kill-zones) | 98.4% SHORT WR at 20:00 UTC — full breakdown |
-| [rsi-extreme-edge](https://github.com/visioneth/rsi-extreme-edge) | RSI reversal data, 138 real trades |
-| [claude-crypto-prompts](https://github.com/visioneth/claude-crypto-prompts) | AI prompts for live trade decisions |
-| [V33X-Pine-Scripts](https://github.com/visioneth/V33X-Pine-Scripts) | TradingView indicators — RSI Extreme, Kill Zone alerts |
-| [awesome-blofin-trading](https://github.com/visioneth/awesome-blofin-trading) | Best BloFin resources and API tools |
+| [crypto-kill-zones](https://github.com/visioneth/crypto-kill-zones) | 98.4% SHORT WR at 20:00 UTC — full statistical breakdown |
+| [rsi-extreme-edge](https://github.com/visioneth/rsi-extreme-edge) | RSI reversal data across 138 real trades |
+| [claude-crypto-prompts](https://github.com/visioneth/claude-crypto-prompts) | The exact AI prompts I use for live trade decisions |
+| [V33X-Pine-Scripts](https://github.com/visioneth/V33X-Pine-Scripts) | TradingView indicators — RSI Extreme, Kill Zone, webhook alerts |
+| [awesome-blofin-trading](https://github.com/visioneth/awesome-blofin-trading) | Curated BloFin resources, API tools, and trading guides |
 | [follow-the-whales](https://github.com/visioneth/follow-the-whales) | 2,000+ whale wallets — free sample inside |
 
 ---
@@ -86,7 +104,7 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,linux,vscode,git,github&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,linux,vscode,git,github,docker&theme=dark&perline=8" />
   </a>
 </p>
 
@@ -107,31 +125,31 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## What I Learned Losing $780
+## What I Learned Losing Real Money
 
 60 days. 12+ strategies. Every one felt like the answer.
 
 1. **Entries are not the problem.** RSI extremes find good entries every time.
 2. **Exits are everything.** Sitting on a winner is the hardest skill in trading.
 3. **One strategy. Tweaked. Not replaced.** Hopping resets the clock every time.
+4. **Automate or die.** If you're staring at charts 18 hours a day, the market already won.
 
 ---
 
-## Current Market (Feb 28, 2026)
+## Current Market (March 1, 2026)
 
 ```
-BTC:  $67,734   up +2.7% today
-ETH:  $2,038    up +5.6%
-SOL:  $87.95    up +7.3%
-DOGE: $0.097    up +3.6%
+BTC:  $66,184   +3.4% today
+ETH:  $1,970    +5.3%
+SOL:  $84.58    +7.1%
 
-Fear & Greed:  EXTREME FEAR (14)
-Funding:       Positive — shorts collecting
+Building in a bear market.
+The ones who build now eat later.
 ```
 
 ---
 
-## 🛠️ Available for Custom Builds — DM to Hire
+## Available for Custom Builds — DM to Hire
 
 | Service | What It Does |
 |---------|-------------|
@@ -143,6 +161,7 @@ Funding:       Positive — shorts collecting
 | **Funding Rate Arb Bot** | Captures positive funding on perpetuals automatically |
 | **Bear Market SHORT System** | RSI extreme fades + kill zone entries, backtested and live |
 | **Custom TradingView Indicators** | Pine Script — signals, overlays, webhook alerts |
+| **Autonomous ML Signal Engine** | PyTorch transformer + RL agent, learns from live data 24/7 |
 
 > **DM [@Vision33X](https://x.com/Vision33X) on X to discuss your project**
 > Solana, Ethereum, BloFin, Hyperliquid — any chain, custom built and delivered.
