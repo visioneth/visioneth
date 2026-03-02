@@ -155,9 +155,10 @@ Autonomous Learner: LIVE on RTX 5090. Learning every 5 minutes.
 
 | Service | What It Does |
 |---------|-------------|
+| **Beast Market Brain** | 24/7 autonomous market intelligence — whale tracking, funding extremes, RSI scanner, kill zone alerts. All wired together, all live. Running on RTX 5090. |
 | **Solana MEV Bot** | Sandwich attacks, liquidation sniping, Jito bundle execution |
 | **ETH Arbitrage Bot** | Cross-DEX arbitrage, flash loans, Uniswap/Curve |
-| **Whale Alert System** | Real-time on-chain tracking, custom Telegram alerts |
+| **Whale Alert System** | Real-time on-chain tracking, 2,000+ wallets, custom Telegram alerts |
 | **BloFin / Exchange API Bot** | Automated entries, copy trading, RSI scanners |
 | **Liquidation Cascade Detector** | Identifies large liquidation clusters before price moves |
 | **Funding Rate Arb Bot** | Captures positive funding on perpetuals automatically |
@@ -165,14 +166,17 @@ Autonomous Learner: LIVE on RTX 5090. Learning every 5 minutes.
 | **Custom TradingView Indicators** | Pine Script — signals, overlays, webhook alerts |
 | **Autonomous ML Signal Engine** | PyTorch transformer + RL agent, learns from live data 24/7 |
 
+> Everything listed here runs on my machine with real money on the line. If I built it for myself, I can build it for you.
+
 > **DM [@Vision33X](https://x.com/Vision33X) on X to discuss your project**
-> Solana, Ethereum, BloFin, Hyperliquid — any chain, custom built and delivered.
+> Solana, Ethereum, BloFin, Hyperliquid — any chain, any exchange, custom built and delivered.
 
 ---
 
 ## Connect
 
 - **X:** [@Vision33X](https://x.com/Vision33X) — signals, whale moves, live trades
+- **Reddit:** [u/Anxiety2020-](https://www.reddit.com/user/Anxiety2020-/) — building in public
 - **Copy Trading:** [BloFin Vision33X](https://partner.blofin.com/d/Vision33X)
 - **Whale Database + MEV Book + Custom Builds:** DM on X
 
