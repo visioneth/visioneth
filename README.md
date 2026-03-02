@@ -70,13 +70,16 @@ Use code **Vision33X** for 20% fee discount.
 
 ---
 
-## Follow the Whales — Premium Database
+## Premium Products
 
-**2,000+ verified crypto whale wallets across BTC, ETH, and Solana.**
+| Product | Price | What You Get |
+|---------|-------|-------------|
+| **Whale Database** | `$47 one time` | 2,000+ verified BTC, ETH, and Solana whale wallets. Smart money that moved markets in 2024-2025. Categorized by chain and activity. When they accumulate, price follows. |
+| **Whale Database — Pro** | `DM for price` | 200,000+ Hyperliquid whale wallets. The full picture of on-chain smart money across the biggest perp exchange in crypto. |
+| **Solana MEV Bot** | `DM for price` | Production-ready sandwich attack, liquidation sniping, and Jito bundle bot. Built on mainnet. Not a tutorial. Not a demo. Real extraction, real revenue. |
+| **Beast Market Brain** | `DM for price` | The full autonomous intelligence stack running on my RTX 5090 — custom built for your operation. 55+ Hyperliquid whales tracked in real-time. 1,000+ coins scanned every 3 minutes via CoinGlass funding extremes. RSI extremes across 500+ pairs. Kill zone detection with 98.4% backtested win rate. Liquidation cascade identification. Funding rate arbitrage signals. Whale consensus scoring. AI transformer + DQN agent learning from live 5-minute data 24/7. All outputs wired to a signal engine that scores 0-10 and fires directly to your exchange API. This is not a script. This is a trading operation. |
 
-Smart money wallets that moved markets in 2024-2025. When they accumulate, price follows. Includes BTC, ETH, and Solana addresses, categorized by chain and activity.
-
-> **DM [@Vision33X](https://x.com/Vision33X) on X for early access — $47 one time**
+> **DM [@Vision33X](https://x.com/Vision33X) on X to purchase or get a quote**
 
 ---
 
