@@ -28,6 +28,7 @@ March 2026 — Active Projects
 
 | Project | Status | What It Does |
 |---------|--------|-------------|
+| **V33X Brain DB** | `🟢 LIVE` | Persistent memory system for Claude Code. Survives context compaction via SQLite + PreCompact/SessionStart hooks. Claude never forgets. |
 | **Autonomous Signal Learner** | `🟢 LIVE — Cycle 1+` | Transformer + DQN agent learning HOLD/LONG/SHORT from live 5m data. Back online March 2 on RTX 5090 |
 | **Signal Engine v2** | `LIVE` | Scans 1,000+ coins via CoinGlass funding extremes + RSI. 704 funding extremes in last scan |
 | **Volatile Scalper** | `TESTING` | Catches extreme funding pumps/dumps with tight SL. 20x, 5-min max hold |
@@ -91,6 +92,7 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 | Repo | What's Inside |
 |------|---------------|
+| [V33X-Brain-DB](https://github.com/visioneth/V33X-Brain-DB) | Claude Code memory system — SQLite + hooks that survive context compaction. Open source. |
 | [crypto-kill-zones](https://github.com/visioneth/crypto-kill-zones) | 98.4% SHORT WR at 20:00 UTC — full statistical breakdown |
 | [rsi-extreme-edge](https://github.com/visioneth/rsi-extreme-edge) | RSI reversal data across 138 real trades |
 | [claude-crypto-prompts](https://github.com/visioneth/claude-crypto-prompts) | The exact AI prompts I use for live trade decisions |
