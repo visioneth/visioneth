@@ -28,11 +28,11 @@ March 2026 — Active Projects
 
 | Project | Status | What It Does |
 |---------|--------|-------------|
-| **Autonomous Signal Learner** | `TRAINING` | Transformer + DQN agent learning HOLD/LONG/SHORT from live 5m data. Runs 24/7 on RTX 5090 |
-| **Signal Engine v2** | `LIVE` | Scans 1,000+ coins via CoinGlass funding extremes + RSI. Found -156% funding plays |
+| **Autonomous Signal Learner** | `🟢 LIVE — Cycle 1+` | Transformer + DQN agent learning HOLD/LONG/SHORT from live 5m data. Back online March 2 on RTX 5090 |
+| **Signal Engine v2** | `LIVE` | Scans 1,000+ coins via CoinGlass funding extremes + RSI. 704 funding extremes in last scan |
 | **Volatile Scalper** | `TESTING` | Catches extreme funding pumps/dumps with tight SL. 20x, 5-min max hold |
 | **Pine Script Suite** | `SHIPPED` | TradingView indicators — RSI Extreme alerts, Kill Zone overlays, webhook triggers |
-| **Whale Database** | `2,000+ wallets` | BTC + ETH + Solana whale addresses, categorized by activity pattern |
+| **Whale Database** | `2,000+ wallets` | 55+ Hyperliquid whales actively tracked. BTC, ETH, Solana addresses live |
 
 > I build tools, test them with real money, and share what works. Everything here is battle-tested.
 
@@ -136,15 +136,15 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (March 1, 2026)
+## Current Market (March 2, 2026)
 
 ```
-BTC:  $66,184   +3.4% today
-ETH:  $1,970    +5.3%
-SOL:  $84.58    +7.1%
+BTC:  $65,415   -2.4% today
+ETH:  $1,926    -4.2%
+SOL:  $83.06    -3.6%
 
-Building in a bear market.
-The ones who build now eat later.
+Bear market. Still building.
+Autonomous Learner: LIVE on RTX 5090. Learning every 5 minutes.
 ```
 
 ---
