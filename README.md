@@ -31,7 +31,7 @@ March 2026 — Active Projects
 | **V33X Brain DB** | `🟢 LIVE` | Persistent memory system for Claude Code. Survives context compaction via SQLite + PreCompact/SessionStart hooks. Claude never forgets. |
 | **Autonomous Signal Learner** | `🟢 LIVE — Cycle 120+` | Transformer + DQN agent learning HOLD/LONG/SHORT from live 5m data. Epsilon decaying toward 0.30 — executor fires when ready. RTX 5090 |
 | **V33X Executor** | `🟡 SIM MODE` | BloFin trade executor — reads learner signals, gates on epsilon + confidence, places live orders when model is ready. 20x, -8% SL, 30-min hold. |
-| **Signal Engine v2** | `LIVE` | Scans 1,000+ coins via CoinGlass funding extremes + RSI. 704 funding extremes in last scan |
+| **Signal Engine v2** | `🟢 LIVE` | Scans 1,000+ coins via CoinGlass funding extremes + RSI. 706 extremes last scan. Now generates FUNDING FARM signals directly — executor fires on them. |
 | **Volatile Scalper** | `TESTING` | Catches extreme funding pumps/dumps with tight SL. 20x, 5-min max hold |
 | **Pine Script Suite** | `SHIPPED` | TradingView indicators — RSI Extreme alerts, Kill Zone overlays, webhook triggers |
 | **Whale Database** | `2,000+ wallets` | 55+ Hyperliquid whales actively tracked. BTC, ETH, Solana addresses live |
@@ -142,16 +142,17 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (March 2, 2026)
+## Current Market (March 3, 2026)
 
 ```
-BTC:  $68,811
-ETH:  $2,028
-SOL:  $86.63
+BTC:  $68,875
+ETH:  $2,031
+SOL:  $86.87
 
-Grind mode. Learner back online post-reboot.
-Executor built today — gates on epsilon < 0.30 + 70% confidence before touching money.
-Cycle 120+. Getting closer.
+706 funding rate extremes found in last scan.
+Signal Engine + Executor now wired together — funding farm signals firing.
+Learner: Cycle 120+ on RTX 5090. Epsilon < 0.50. Getting dialed in.
+Bear market grind. Building every day regardless.
 ```
 
 ---
