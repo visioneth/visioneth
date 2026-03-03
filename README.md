@@ -29,7 +29,8 @@ March 2026 — Active Projects
 | Project | Status | What It Does |
 |---------|--------|-------------|
 | **V33X Brain DB** | `🟢 LIVE` | Persistent memory system for Claude Code. Survives context compaction via SQLite + PreCompact/SessionStart hooks. Claude never forgets. |
-| **Autonomous Signal Learner** | `🟢 LIVE — Cycle 1+` | Transformer + DQN agent learning HOLD/LONG/SHORT from live 5m data. Back online March 2 on RTX 5090 |
+| **Autonomous Signal Learner** | `🟢 LIVE — Cycle 120+` | Transformer + DQN agent learning HOLD/LONG/SHORT from live 5m data. Epsilon decaying toward 0.30 — executor fires when ready. RTX 5090 |
+| **V33X Executor** | `🟡 SIM MODE` | BloFin trade executor — reads learner signals, gates on epsilon + confidence, places live orders when model is ready. 20x, -8% SL, 30-min hold. |
 | **Signal Engine v2** | `LIVE` | Scans 1,000+ coins via CoinGlass funding extremes + RSI. 704 funding extremes in last scan |
 | **Volatile Scalper** | `TESTING` | Catches extreme funding pumps/dumps with tight SL. 20x, 5-min max hold |
 | **Pine Script Suite** | `SHIPPED` | TradingView indicators — RSI Extreme alerts, Kill Zone overlays, webhook triggers |
@@ -144,12 +145,13 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 ## Current Market (March 2, 2026)
 
 ```
-BTC:  $65,415   -2.4% today
-ETH:  $1,926    -4.2%
-SOL:  $83.06    -3.6%
+BTC:  $68,811
+ETH:  $2,028
+SOL:  $86.63
 
-Bear market. Still building.
-Autonomous Learner: LIVE on RTX 5090. Learning every 5 minutes.
+Grind mode. Learner back online post-reboot.
+Executor built today — gates on epsilon < 0.30 + 70% confidence before touching money.
+Cycle 120+. Getting closer.
 ```
 
 ---
