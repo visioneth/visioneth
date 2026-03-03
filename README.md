@@ -144,15 +144,15 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 ## Current Market (March 3, 2026)
 
 ```
-BTC:  $68,437  (+2.30%)  |  ETH:  $2,012  (+1.93%)  |  SOL:  $86.42  (+1.80%)
+BTC:  $67,231  (+1.94%)  |  ETH:  $1,960  (+1.15%)  |  SOL:  $84.24  (+0.63%)
 
 LIVE RIGHT NOW:
-→ AlphaScope: FREE dashboard just shipped — github.com/visioneth/AlphaScope
-→ Signal Engine: 668 funding extremes scanned. 1 FIRE signal active.
+→ AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, 3 pip installs, run it
+→ Signal Engine: 668 funding extremes scanned. FIRE signals live.
 → 53 Hyperliquid whale wallets tracked live. Consensus: NEUTRAL.
-→ EU OPEN kill zone in 6h 18m — 88.9% SHORT win rate.
 → NY CLOSE 20:00 UTC tonight — 98.4% win rate. Set your alarm.
 → Autonomous Learner: Cycle 120+ on RTX 5090. Epsilon decaying.
+→ APT up 4.36% leading alts today.
 ```
 
 ---
