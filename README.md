@@ -145,14 +145,14 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 ## Current Market (March 3, 2026)
 
 ```
-BTC:  $68,875
-ETH:  $2,031
-SOL:  $86.87
+BTC:  $68,326
+ETH:  $1,982
+SOL:  $85.10
 
 706 funding rate extremes found in last scan.
 Signal Engine + Executor now wired together — funding farm signals firing.
 Learner: Cycle 120+ on RTX 5090. Epsilon < 0.50. Getting dialed in.
-Bear market grind. Building every day regardless.
+r/WhalesStreetBets live — community just launched. Bears don't rest on birthdays.
 ```
 
 ---
