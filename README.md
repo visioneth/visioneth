@@ -142,17 +142,17 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (March 3, 2026)
+## Current Market (March 3, 2026 — Birthday Build)
 
 ```
-BTC:  $68,875
-ETH:  $2,031
-SOL:  $86.87
+BTC:  $68,875  |  ETH:  $2,031  |  SOL:  $86.87
 
-706 funding rate extremes found in last scan.
-Signal Engine + Executor now wired together — funding farm signals firing.
-Learner: Cycle 120+ on RTX 5090. Epsilon < 0.50. Getting dialed in.
-Bear market grind. Building every day regardless.
+LIVE RIGHT NOW:
+→ Signal Engine: 700+ funding extremes found, FIRE signals running
+→ 53 Hyperliquid whale wallets tracked
+→ Historical Z-scores wired in: 50-day baseline vs current extremes
+→ Autonomous Learner: Cycle 120+ on RTX 5090. Epsilon decaying.
+→ Next Kill Zone: 20:00 UTC SHORT — 98.4% win rate. Set your alarm.
 ```
 
 ---
