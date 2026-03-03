@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=650&lines=88%25+CT+Win+Rate+on+BloFin+%F0%9F%8F%86;98.4%25+SHORT+Win+Rate+at+20%3A00+UTC;2%2C000%2B+Verified+Crypto+Whale+Wallets;RTX+5090+%2B+PyTorch+%7C+Training+24%2F7;RSI+Extremes+%7C+Kill+Zones+%7C+Funding+Arb" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=650&lines=AlphaScope+%E2%80%94+Free+Live+Crypto+Intelligence+Dashboard;98.4%25+SHORT+Win+Rate+at+20%3A00+UTC+%7C+65+Trades;50%2C000%2B+Verified+Crypto+Whale+Wallets+Tracked;668+Funding+Extremes+Live+%7C+RTX+5090+Running+24%2F7;RSI+Extremes+%7C+Kill+Zones+%7C+Funding+Arb+%7C+Free" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CT%20Win%20Rate-88%25-brightgreen?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kill%20Zone%20WR-98.4%25-blue?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Whale%20Wallets-2000%2B-purple?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AlphaScope-FREE%20%26%20OPEN%20SOURCE-7c3aed?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kill%20Zone%20WR-98.4%25-brightgreen?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whale%20Wallets-50%2C000%2B-purple?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardware-RTX%205090-76b900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/BloFin-Lead%20Trader-orange?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/BloFin-KOL%20Partner-orange?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
@@ -28,13 +28,12 @@ March 2026 — Active Projects
 
 | Project | Status | What It Does |
 |---------|--------|-------------|
-| **V33X Brain DB** | `🟢 LIVE` | Persistent memory system for Claude Code. Survives context compaction via SQLite + PreCompact/SessionStart hooks. Claude never forgets. |
+| **[AlphaScope](https://github.com/visioneth/AlphaScope)** | `🟢 JUST SHIPPED` | **Free, open source live crypto intelligence dashboard.** Matrix rain UI, real-time WebSocket feed, kill zone countdown (98.4% WR), funding heatmap across 668+ coins, whale consensus panel. Zero subscriptions. Clone and run. |
+| **Signal Engine v2** | `🟢 LIVE` | Scans 1,000+ coins via CoinGlass funding extremes + RSI. 668 extremes live. Historical Z-scores wired in. FUNDING FARM signals fire to executor. |
+| **Whale Tracker** | `🟢 LIVE` | 53 Hyperliquid whales tracked real-time. Position consensus → directional bias. Data feeds AlphaScope dashboard live. |
 | **Autonomous Signal Learner** | `🟢 LIVE — Cycle 120+` | Transformer + DQN agent learning HOLD/LONG/SHORT from live 5m data. Epsilon decaying toward 0.30 — executor fires when ready. RTX 5090 |
-| **V33X Executor** | `🟡 SIM MODE` | BloFin trade executor — reads learner signals, gates on epsilon + confidence, places live orders when model is ready. 20x, -8% SL, 30-min hold. |
-| **Signal Engine v2** | `🟢 LIVE` | Scans 1,000+ coins via CoinGlass funding extremes + RSI. 706 extremes last scan. Now generates FUNDING FARM signals directly — executor fires on them. |
-| **Volatile Scalper** | `TESTING` | Catches extreme funding pumps/dumps with tight SL. 20x, 5-min max hold |
+| **V33X Executor** | `🟡 SIM MODE` | BloFin trade executor — reads signals, gates on confidence, places live orders when model is ready. 20x, -8% SL, 30-min hold. |
 | **Pine Script Suite** | `SHIPPED` | TradingView indicators — RSI Extreme alerts, Kill Zone overlays, webhook triggers |
-| **Whale Database** | `2,000+ wallets` | 55+ Hyperliquid whales actively tracked. BTC, ETH, Solana addresses live |
 
 > I build tools, test them with real money, and share what works. Everything here is battle-tested.
 
@@ -96,13 +95,13 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 | Repo | What's Inside |
 |------|---------------|
-| [V33X-Brain-DB](https://github.com/visioneth/V33X-Brain-DB) | Claude Code memory system — SQLite + hooks that survive context compaction. Open source. |
-| [crypto-kill-zones](https://github.com/visioneth/crypto-kill-zones) | 98.4% SHORT WR at 20:00 UTC — full statistical breakdown |
+| ⭐ **[AlphaScope](https://github.com/visioneth/AlphaScope)** | **Free live crypto dashboard — kill zone countdown, funding heatmap, whale consensus. Real-time. No subscriptions. Clone it.** |
+| [crypto-kill-zones](https://github.com/visioneth/crypto-kill-zones) | 98.4% SHORT WR at 20:00 UTC — 65 real trades, full breakdown |
 | [rsi-extreme-edge](https://github.com/visioneth/rsi-extreme-edge) | RSI reversal data across 138 real trades |
+| [follow-the-whales](https://github.com/visioneth/follow-the-whales) | 50,000+ verified whale wallets — free sample inside |
 | [claude-crypto-prompts](https://github.com/visioneth/claude-crypto-prompts) | The exact AI prompts I use for live trade decisions |
 | [V33X-Pine-Scripts](https://github.com/visioneth/V33X-Pine-Scripts) | TradingView indicators — RSI Extreme, Kill Zone, webhook alerts |
 | [awesome-blofin-trading](https://github.com/visioneth/awesome-blofin-trading) | Curated BloFin resources, API tools, and trading guides |
-| [follow-the-whales](https://github.com/visioneth/follow-the-whales) | 2,000+ whale wallets — free sample inside |
 
 ---
 
@@ -145,14 +144,15 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 ## Current Market (March 3, 2026)
 
 ```
-BTC:  $68,326
-ETH:  $1,982
-SOL:  $85.10
+BTC:  $67,231  (+1.94%)  |  ETH:  $1,960  (+1.15%)  |  SOL:  $84.24  (+0.63%)
 
-706 funding rate extremes found in last scan.
-Signal Engine + Executor now wired together — funding farm signals firing.
-Learner: Cycle 120+ on RTX 5090. Epsilon < 0.50. Getting dialed in.
-r/WhalesStreetBets live — community just launched. Bears don't rest on birthdays.
+LIVE RIGHT NOW:
+→ AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, 3 pip installs, run it
+→ Signal Engine: 668 funding extremes scanned. FIRE signals live.
+→ 53 Hyperliquid whale wallets tracked live. Consensus: NEUTRAL.
+→ NY CLOSE 20:00 UTC tonight — 98.4% win rate. Set your alarm.
+→ Autonomous Learner: Cycle 120+ on RTX 5090. Epsilon decaying.
+→ APT up 4.36% leading alts today.
 ```
 
 ---
