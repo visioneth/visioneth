@@ -141,10 +141,10 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (March 3, 2026)
+## Current Market (March 4, 2026)
 
 ```
-BTC:  $67,231  (+1.94%)  |  ETH:  $1,960  (+1.15%)  |  SOL:  $84.24  (+0.63%)
+BTC:  $72,988  (+8.54%)  |  ETH:  $2,128  (+8.51%)  |  SOL:  $92.03  (+9.38%)
 
 LIVE RIGHT NOW:
 → AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, 3 pip installs, run it
@@ -152,7 +152,7 @@ LIVE RIGHT NOW:
 → 53 Hyperliquid whale wallets tracked live. Consensus: NEUTRAL.
 → NY CLOSE 20:00 UTC tonight — 98.4% win rate. Set your alarm.
 → Autonomous Learner: Cycle 120+ on RTX 5090. Epsilon decaying.
-→ APT up 4.36% leading alts today.
+→ Market ripping today. BTC broke $71K resistance on Iran peace talks catalyst.
 ```
 
 ---
