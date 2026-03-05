@@ -144,18 +144,18 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 ## Current Market (March 5, 2026)
 
 ```
-BTC:  $72,625  (+7.09%)  |  ETH:  $2,124  (+8.34%)  |  SOL:  $90.12  (+5.39%)
-XRP:  $1.42   (+5.25%)  |  DOGE: $0.0965 (+7.77%)  |  LINK: $9.28  (+6.07%)
+BTC:  $72,674  (+1.89%)  |  ETH:  $2,127  (+3.36%)  |  SOL:  $91.50  (+2.02%)
+XRP:  $1.43   (+2.45%)  |  DOGE: $0.1000 (+3.29%)  |  LINK: $9.45  (+3.59%)
 
-Total Market Cap: $2.53T  |  BTC Dominance: 57.4%  |  24h Change: +5.6%
+Total Market Cap: $2.53T  |  BTC Dominance: 57.4%  |  24h Change: +1.5%
 
-LIVE RIGHT NOW:
-→ Market-wide pump — everything up 5-9% today. Risk-on is BACK.
-→ AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, 3 pip installs, run it
-→ Signal Engine: 1,000+ coins scanned. Funding extremes live.
-→ Kill Zone in ~4 hours — 20:00 UTC SHORT setup — 98.4% WR. Set your alarm.
-→ BTC holding $72K — watching continuation vs rejection.
-→ Autonomous Learner: RTX 5090 running 24/7. Epsilon decaying toward executor.
+LIVE RIGHT NOW — March 5, 2026 | 8:23 AM ET
+→ NY Stock Exchange opens 9:30 AM ET. Watching for crypto correlation.
+→ BTC consolidating $72K — yesterday's +6.4% pump settling. Waiting for direction.
+→ Kill Zone: 20:00 UTC tonight — 98.4% SHORT WR (65 trades). This one matters.
+→ AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, run it in 3 commands.
+→ Signal Engine: 1,000+ coins scanned every 3 min. Whale consensus + funding extremes live.
+→ Beast Brain: Onchain SOPR + SSR scanning. Hurst trending engine running. RTX 5090 24/7.
 ```
 
 ---
