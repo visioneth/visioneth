@@ -141,21 +141,18 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (March 5, 2026)
+## Current Market (March 4, 2026)
 
 ```
-BTC:  $72,625  (+7.09%)  |  ETH:  $2,124  (+8.34%)  |  SOL:  $90.12  (+5.39%)
-XRP:  $1.42   (+5.25%)  |  DOGE: $0.0965 (+7.77%)  |  LINK: $9.28  (+6.07%)
-
-Total Market Cap: $2.53T  |  BTC Dominance: 57.4%  |  24h Vol Change: +36.9%
+BTC:  $72,988  (+8.54%)  |  ETH:  $2,128  (+8.51%)  |  SOL:  $92.03  (+9.38%)
 
 LIVE RIGHT NOW:
-→ Market-wide pump — everything up 5-8% across the board today
 → AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, 3 pip installs, run it
-→ Signal Engine: 1,000+ coins scanned. Funding extremes live.
-→ Kill Zone in 4 hours — 20:00 UTC SHORT setup — 98.4% WR. Set your alarm.
-→ BTC broke $72K resistance — watching for continuation or rejection
-→ Autonomous Learner: RTX 5090 running 24/7. Live data. Epsilon decaying.
+→ Signal Engine: 668 funding extremes scanned. FIRE signals live.
+→ 53 Hyperliquid whale wallets tracked live. Consensus: NEUTRAL.
+→ NY CLOSE 20:00 UTC tonight — 98.4% win rate. Set your alarm.
+→ Autonomous Learner: Cycle 120+ on RTX 5090. Epsilon decaying.
+→ Market ripping today. BTC broke $71K resistance on Iran peace talks catalyst.
 ```
 
 ---
