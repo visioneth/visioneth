@@ -23,16 +23,17 @@
 ## Currently Building
 
 ```
-March 2026 — Active Projects
+March 5, 2026 — Active Projects
 ```
 
 | Project | Status | What It Does |
 |---------|--------|-------------|
-| **[AlphaScope](https://github.com/visioneth/AlphaScope)** | `🟢 JUST SHIPPED` | **Free, open source live crypto intelligence dashboard.** Matrix rain UI, real-time WebSocket feed, kill zone countdown (98.4% WR), funding heatmap across 668+ coins, whale consensus panel. Zero subscriptions. Clone and run. |
+| **V33X Beast Brain** | `🟢 LIVE` | **Full autonomous trading system.** Hurst fractional analysis for trend/mean-reversion regime detection, RSI extremes, macro signal integration, kill zone timing. All running 24/7 on RTX 5090. |
+| **[AlphaScope](https://github.com/visioneth/AlphaScope)** | `🟢 SHIPPED` | **Free, open source live crypto intelligence dashboard.** Matrix rain UI, real-time WebSocket feed, kill zone countdown (98.4% WR), funding heatmap across 668+ coins, whale consensus panel. Zero subscriptions. Clone and run. |
+| **BloFin Copy Trading** | `🟢 LIVE` | **Official KOL Partner.** 0% maker fees, 70% affiliate commission, 20% profit share. Beast Brain signals wired to copy trading executor. |
+| **[CryptoHandlesUS](https://tight-sunset-89d5.mjr66221.workers.dev)** | `🟢 LIVE` | Social media handles marketplace — TikTok, Instagram, X/Twitter. Crypto-only payments (ASTR, BNB). Built on Cloudflare Workers. |
 | **Signal Engine v2** | `🟢 LIVE` | Scans 1,000+ coins via CoinGlass funding extremes + RSI. 668 extremes live. Historical Z-scores wired in. FUNDING FARM signals fire to executor. |
 | **Whale Tracker** | `🟢 LIVE` | 53 Hyperliquid whales tracked real-time. Position consensus → directional bias. Data feeds AlphaScope dashboard live. |
-| **Autonomous Signal Learner** | `🟢 LIVE — Cycle 120+` | Transformer + DQN agent learning HOLD/LONG/SHORT from live 5m data. Epsilon decaying toward 0.30 — executor fires when ready. RTX 5090 |
-| **V33X Executor** | `🟡 SIM MODE` | BloFin trade executor — reads signals, gates on confidence, places live orders when model is ready. 20x, -8% SL, 30-min hold. |
 | **Pine Script Suite** | `SHIPPED` | TradingView indicators — RSI Extreme alerts, Kill Zone overlays, webhook triggers |
 
 > I build tools, test them with real money, and share what works. Everything here is battle-tested.
@@ -144,18 +145,18 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 ## Current Market (March 5, 2026)
 
 ```
-BTC:  $72,674  (+1.89%)  |  ETH:  $2,127  (+3.36%)  |  SOL:  $91.50  (+2.02%)
-XRP:  $1.43   (+2.45%)  |  DOGE: $0.1000 (+3.29%)  |  LINK: $9.45  (+3.59%)
+BTC:  $71,320  (-1.41%)  |  ETH:  $2,075  (-1.30%)  |  SOL:  $89.29  (-2.29%)
+DOGE: $0.0945 (-2.17%)  |  24h Trend: RED across the board
 
-Total Market Cap: $2.53T  |  BTC Dominance: 57.4%  |  24h Change: +1.5%
+Updated: March 5, 2026 — Live CoinGecko data
 
-LIVE RIGHT NOW — March 5, 2026 | 8:23 AM ET
-→ NY Stock Exchange opens 9:30 AM ET. Watching for crypto correlation.
-→ BTC consolidating $72K — yesterday's +6.4% pump settling. Waiting for direction.
-→ Kill Zone: 20:00 UTC tonight — 98.4% SHORT WR (65 trades). This one matters.
+→ BTC pulling back from yesterday's $72.6K high. -1.4% on the day, testing $71K support.
+→ SOL and DOGE leading the red — altcoin weakness while BTC holds relative strength.
+→ Kill Zone: 20:00 UTC tonight — 98.4% SHORT WR (65 trades). Eyes on.
+→ Beast Brain: Hurst fractional analysis + RSI extremes scanning. RTX 5090 running 24/7.
+→ Signal Engine: 1,000+ coins scanned every 3 min. Funding extremes + whale consensus live.
 → AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, run it in 3 commands.
-→ Signal Engine: 1,000+ coins scanned every 3 min. Whale consensus + funding extremes live.
-→ Beast Brain: Onchain SOPR + SSR scanning. Hurst trending engine running. RTX 5090 24/7.
+→ NYSE opens 9:30 AM ET. Red day in crypto = watch for correlation at equity open.
 ```
 
 ---
