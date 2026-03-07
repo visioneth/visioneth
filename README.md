@@ -23,7 +23,7 @@
 ## Currently Building
 
 ```
-March 5, 2026 — Active Projects
+March 7, 2026 — Active Projects
 ```
 
 | Project | Status | What It Does |
@@ -142,21 +142,23 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (March 5, 2026)
+## Current Market (March 7, 2026)
 
 ```
-BTC:  $71,320  (-1.41%)  |  ETH:  $2,075  (-1.30%)  |  SOL:  $89.29  (-2.29%)
-DOGE: $0.0945 (-2.17%)  |  24h Trend: RED across the board
+BTC:  $67,917  (-2.03%)  |  ETH:  $1,981  (-3.01%)  |  SOL:  $84.30  (-1.97%)
+DOGE: $0.0903 (-1.81%)   |  24h Trend: RED across the board
 
-Updated: March 5, 2026 — Live CoinGecko data
+Updated: March 7, 2026 — Live CoinGecko data
 
-→ BTC pulling back from yesterday's $72.6K high. -1.4% on the day, testing $71K support.
-→ SOL and DOGE leading the red — altcoin weakness while BTC holds relative strength.
+→ BTC testing $68K support after sliding from $69.3K. -2% on the day.
+→ ETH leading the bleed at -3%. Sub-$2K watch continues.
+→ SOL holding mid-$84 — relatively stable compared to majors.
+→ DOGE holding $0.09 floor. Meme sector quiet.
 → Kill Zone: 20:00 UTC tonight — 98.4% SHORT WR (65 trades). Eyes on.
 → Beast Brain: Hurst fractional analysis + RSI extremes scanning. RTX 5090 running 24/7.
 → Signal Engine: 1,000+ coins scanned every 3 min. Funding extremes + whale consensus live.
 → AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, run it in 3 commands.
-→ NYSE opens 9:30 AM ET. Red day in crypto = watch for correlation at equity open.
+→ NYSE opens 9:30 AM ET every weekday. Red day in crypto = watch for correlation at equity open.
 ```
 
 ---
