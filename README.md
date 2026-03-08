@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=650&lines=Solana+MCP+%E2%80%94+38+Tools+%7C+AI+Agent+Infrastructure;Whale+Watcher+%E2%80%94+Live+Solana+Whale+Tracking;Rug+Detector+%E2%80%94+Solana+Token+Safety+Scanner;Cross-Chain+Arb+%E2%80%94+4+Chains+Live;Polymarket+AI+Agent+%E2%80%94+Edge+Detection;AlphaScope+%E2%80%94+Free+Live+Crypto+Intelligence+Dashboard;98.4%25+SHORT+Win+Rate+at+20%3A00+UTC+%7C+65+Trades;50%2C000%2B+Verified+Crypto+Whale+Wallets+Tracked;668+Funding+Extremes+Live+%7C+RTX+5090+Running+24%2F7;Building+AI+Agent+Infra+for+Solana+%7C+Open+Source" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=650&lines=Solana+MCP+%E2%80%94+38+Tools+%7C+AI+Agent+Infrastructure;Whale+Watcher+%E2%80%94+Live+Solana+Whale+Tracking;Rug+Detector+%E2%80%94+Solana+Token+Safety+Scanner;Cross-Chain+Arb+%E2%80%94+4+Chains+Live;Polymarket+AI+Agent+%E2%80%94+Edge+Detection;Liquidation+Cascade+%E2%80%94+Watch+Traders+Get+Rekt;AlphaScope+%E2%80%94+Free+Live+Crypto+Intelligence+Dashboard;98.4%25+SHORT+Win+Rate+at+20%3A00+UTC+%7C+65+Trades;50%2C000%2B+Verified+Crypto+Whale+Wallets+Tracked;668+Funding+Extremes+Live+%7C+RTX+5090+Running+24%2F7;Building+AI+Agent+Infra+for+Solana+%7C+Open+Source" />
 </p>
 
 <p align="center">
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Rug%20Detector-TOKEN%20SCANNER-ff2255?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Cross--Chain%20Arb-4%20CHAINS-9945ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Polymarket%20Agent-AI%20EDGE-7733ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liquidation%20Cascade-LIVE%20EXPLOSIONS-ff1744?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/AlphaScope-FREE%20%26%20OPEN%20SOURCE-7c3aed?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Kill%20Zone%20WR-98.4%25-brightgreen?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Whale%20Wallets-50%2C000%2B-purple?style=for-the-badge&logoColor=white" />
@@ -38,6 +39,7 @@ March 8, 2026 — Active Projects
 | **[Rug Pull Detector](https://visioneth.github.io/rug-pull-detector/)** | `🟢 NEW` | **Solana token safety scanner.** Scores new tokens 0-100 for rug pull risk. Checks mint authority, liquidity locks, holder concentration, LP burn. Radar sweep animation. [Live →](https://visioneth.github.io/rug-pull-detector/) |
 | **[Cross-Chain Arb](https://visioneth.github.io/cross-chain-arb/)** | `🟢 NEW` | **Real-time arbitrage scanner** across Solana, Ethereum, BNB Chain, Arbitrum. Finds price gaps, calculates profit, chain status. 10 tokens tracked. [Live →](https://visioneth.github.io/cross-chain-arb/) |
 | **[Polymarket Agent](https://visioneth.github.io/polymarket-agent/)** | `🟢 NEW` | **AI prediction market intelligence.** Scans Polymarket for mispriced markets. Edge detection, sentiment gauge, AI reasoning output. [Live →](https://visioneth.github.io/polymarket-agent/) |
+| **[Liquidation Cascade](https://visioneth.github.io/liquidation-cascade/)** | `🔥 NEW` | **Watch crypto traders get liquidated in real-time.** Particle explosions, screen shake on mega liqs, cascade levels (Normal→NUCLEAR). 10 coins, 7 exchanges, 60fps chaos. [Live →](https://visioneth.github.io/liquidation-cascade/) |
 | **V33X Beast Brain** | `🟢 LIVE` | **Full autonomous trading system.** Hurst fractional analysis for trend/mean-reversion regime detection, RSI extremes, macro signal integration, kill zone timing. All running 24/7 on RTX 5090. |
 | **[AlphaScope](https://github.com/visioneth/AlphaScope)** | `🟢 SHIPPED` | **Free, open source live crypto intelligence dashboard.** Matrix rain UI, real-time WebSocket feed, kill zone countdown (98.4% WR), funding heatmap across 668+ coins, whale consensus panel. Zero subscriptions. Clone and run. |
 | **BloFin Copy Trading** | `🟢 LIVE` | **Official KOL Partner.** 0% maker fees, 70% affiliate commission, 20% profit share. Beast Brain signals wired to copy trading executor. |
@@ -111,6 +113,7 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 | ⭐ **[Rug Pull Detector](https://github.com/visioneth/rug-pull-detector)** | **Solana token safety scanner. Risk scores 0-100, checks mint auth, LP lock, holder concentration. Radar sweep UI. [Live →](https://visioneth.github.io/rug-pull-detector/)** |
 | ⭐ **[Cross-Chain Arb](https://github.com/visioneth/cross-chain-arb)** | **Arbitrage scanner across SOL/ETH/BNB/ARB. Price gaps, profit calculator, chain status. [Live →](https://visioneth.github.io/cross-chain-arb/)** |
 | ⭐ **[Polymarket Agent](https://github.com/visioneth/polymarket-agent)** | **AI prediction market scanner. Edge detection, sentiment gauge, AI reasoning. 18 markets. [Live →](https://visioneth.github.io/polymarket-agent/)** |
+| 🔥 **[Liquidation Cascade](https://github.com/visioneth/liquidation-cascade)** | **Real-time liquidation feed with particle explosions. Screen shake on mega liqs. Cascade levels up to NUCLEAR. 10 coins, 7 exchanges. [Live →](https://visioneth.github.io/liquidation-cascade/)** |
 | ⭐ **[AlphaScope](https://github.com/visioneth/AlphaScope)** | **Free live crypto dashboard — kill zone countdown, funding heatmap, whale consensus. Real-time. No subscriptions. Clone it.** |
 | [crypto-kill-zones](https://github.com/visioneth/crypto-kill-zones) | 98.4% SHORT WR at 20:00 UTC — 65 real trades, full breakdown |
 | [rsi-extreme-edge](https://github.com/visioneth/rsi-extreme-edge) | RSI reversal data across 138 real trades |
@@ -174,6 +177,7 @@ Updated: March 8, 2026 — Live CoinGecko data
 → NEW: Rug Pull Detector — token safety scanner with risk scoring. Radar sweep UI.
 → NEW: Cross-Chain Arb — live arbitrage scanner across SOL, ETH, BNB, Arbitrum.
 → NEW: Polymarket Agent — AI prediction market intelligence with edge detection.
+→ NEW: Liquidation Cascade — real-time liq feed with particle explosions. Screen shake. Cascade to NUCLEAR.
 → Kill Zone: 20:00 UTC tonight — 98.4% SHORT WR (65 trades). Eyes on.
 → Beast Brain: Hurst fractional analysis + RSI extremes scanning. RTX 5090 running 24/7.
 → Signal Engine: 1,000+ coins scanned every 3 min. Funding extremes + whale consensus live.
