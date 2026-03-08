@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vision33X&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Whale%20Tracking%20%7C%20Perp%20Trading%20%7C%20BloFin%20Lead%20Trader&descAlignY=62&descSize=18&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vision33X&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20Infra%20%7C%20Whale%20Tracking%20%7C%20Perp%20Trading%20%7C%20MCP%20Builder&descAlignY=62&descSize=18&descColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=650&lines=AlphaScope+%E2%80%94+Free+Live+Crypto+Intelligence+Dashboard;98.4%25+SHORT+Win+Rate+at+20%3A00+UTC+%7C+65+Trades;50%2C000%2B+Verified+Crypto+Whale+Wallets+Tracked;668+Funding+Extremes+Live+%7C+RTX+5090+Running+24%2F7;RSI+Extremes+%7C+Kill+Zones+%7C+Funding+Arb+%7C+Free" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=650&lines=Solana+MCP+%E2%80%94+38+Tools+%7C+AI+Agent+Infrastructure;AlphaScope+%E2%80%94+Free+Live+Crypto+Intelligence+Dashboard;98.4%25+SHORT+Win+Rate+at+20%3A00+UTC+%7C+65+Trades;50%2C000%2B+Verified+Crypto+Whale+Wallets+Tracked;668+Funding+Extremes+Live+%7C+RTX+5090+Running+24%2F7;Building+AI+Agent+Infra+for+Solana+%7C+Open+Source" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Solana%20MCP-38%20TOOLS-00ff88?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/AlphaScope-FREE%20%26%20OPEN%20SOURCE-7c3aed?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Kill%20Zone%20WR-98.4%25-brightgreen?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Whale%20Wallets-50%2C000%2B-purple?style=for-the-badge&logoColor=white" />
@@ -23,11 +24,12 @@
 ## Currently Building
 
 ```
-March 7, 2026 — Active Projects
+March 8, 2026 — Active Projects
 ```
 
 | Project | Status | What It Does |
 |---------|--------|-------------|
+| **[Solana MCP Server](https://visioneth.github.io/solana-mcp/)** | `🟢 NEW` | **The most comprehensive Solana MCP server.** 38 tools, 10 prompts, 7 modules. Give any AI agent (Claude, Cursor) full access to Solana — wallets, tokens, DeFi swaps, NFTs, analytics. [Live demo →](https://visioneth.github.io/solana-mcp/) |
 | **V33X Beast Brain** | `🟢 LIVE` | **Full autonomous trading system.** Hurst fractional analysis for trend/mean-reversion regime detection, RSI extremes, macro signal integration, kill zone timing. All running 24/7 on RTX 5090. |
 | **[AlphaScope](https://github.com/visioneth/AlphaScope)** | `🟢 SHIPPED` | **Free, open source live crypto intelligence dashboard.** Matrix rain UI, real-time WebSocket feed, kill zone countdown (98.4% WR), funding heatmap across 668+ coins, whale consensus panel. Zero subscriptions. Clone and run. |
 | **BloFin Copy Trading** | `🟢 LIVE` | **Official KOL Partner.** 0% maker fees, 70% affiliate commission, 20% profit share. Beast Brain signals wired to copy trading executor. |
@@ -96,6 +98,7 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 | Repo | What's Inside |
 |------|---------------|
+| ⭐ **[Solana MCP Server](https://github.com/visioneth/solana-mcp)** | **38 tools, 7 modules. The most comprehensive MCP server for Solana. AI agents can swap tokens, track whales, analyze NFTs, read programs. [Live demo →](https://visioneth.github.io/solana-mcp/)** |
 | ⭐ **[AlphaScope](https://github.com/visioneth/AlphaScope)** | **Free live crypto dashboard — kill zone countdown, funding heatmap, whale consensus. Real-time. No subscriptions. Clone it.** |
 | [crypto-kill-zones](https://github.com/visioneth/crypto-kill-zones) | 98.4% SHORT WR at 20:00 UTC — 65 real trades, full breakdown |
 | [rsi-extreme-edge](https://github.com/visioneth/rsi-extreme-edge) | RSI reversal data across 138 real trades |
@@ -142,23 +145,23 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (March 7, 2026)
+## Current Market (March 8, 2026)
 
 ```
-BTC:  $67,917  (-2.03%)  |  ETH:  $1,981  (-3.01%)  |  SOL:  $84.30  (-1.97%)
-DOGE: $0.0903 (-1.81%)   |  24h Trend: RED across the board
+BTC:  $86,806  (-1.19%)  |  ETH:  $1,930  (-2.07%)  |  SOL:  $81.65  (-2.09%)
+BNB:  $613.01 (-1.47%)   |  24h Trend: RED — slow bleed continues
 
-Updated: March 7, 2026 — Live CoinGecko data
+Updated: March 8, 2026 — Live CoinGecko data
 
-→ BTC testing $68K support after sliding from $69.3K. -2% on the day.
-→ ETH leading the bleed at -3%. Sub-$2K watch continues.
-→ SOL holding mid-$84 — relatively stable compared to majors.
-→ DOGE holding $0.09 floor. Meme sector quiet.
+→ BTC holding $87K range. Consolidating after the run from $68K. Shallow pullback so far.
+→ ETH still under $2K. Weakest major. Ratio getting ugly.
+→ SOL dipped below $82. DeFi TVL holding but price lagging BTC.
+→ BNB quietly at $613 — strongest relative performer this week.
+→ NEW: Shipped solana-mcp — 38 tools, most comprehensive Solana MCP server. Open source.
 → Kill Zone: 20:00 UTC tonight — 98.4% SHORT WR (65 trades). Eyes on.
 → Beast Brain: Hurst fractional analysis + RSI extremes scanning. RTX 5090 running 24/7.
 → Signal Engine: 1,000+ coins scanned every 3 min. Funding extremes + whale consensus live.
 → AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, run it in 3 commands.
-→ NYSE opens 9:30 AM ET every weekday. Red day in crypto = watch for correlation at equity open.
 ```
 
 ---
