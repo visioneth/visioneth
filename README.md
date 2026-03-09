@@ -29,7 +29,7 @@
 ## Currently Building
 
 ```
-March 8, 2026 — Active Projects
+March 9, 2026 — Active Projects
 ```
 
 | Project | Status | What It Does |
@@ -160,25 +160,20 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (March 8, 2026)
+## Current Market (March 9, 2026)
 
 ```
-BTC:  $86,806  (-1.19%)  |  ETH:  $1,930  (-2.07%)  |  SOL:  $81.65  (-2.09%)
-BNB:  $613.01 (-1.47%)   |  24h Trend: RED — slow bleed continues
+BTC:  $68,798  (+2.59%)  |  ETH:  $2,015  (+4.21%)  |  SOL:  $84.95  (+4.03%)
+DOGE: $0.0916  (+3.71%)  |  24h Trend: GREEN — broad-based bounce across the board
 
-Updated: March 8, 2026 — Live CoinGecko data
+Updated: March 9, 2026 — Live CoinGecko data
 
-→ BTC holding $87K range. Consolidating after the run from $68K. Shallow pullback so far.
-→ ETH still under $2K. Weakest major. Ratio getting ugly.
-→ SOL dipped below $82. DeFi TVL holding but price lagging BTC.
-→ BNB quietly at $613 — strongest relative performer this week.
-→ NEW: Shipped solana-mcp — 38 tools, most comprehensive Solana MCP server. Open source.
-→ NEW: Whale Watcher live — real-time Solana whale tracking. 10 whales, live balances, tx feed.
-→ NEW: Rug Pull Detector — token safety scanner with risk scoring. Radar sweep UI.
-→ NEW: Cross-Chain Arb — live arbitrage scanner across SOL, ETH, BNB, Arbitrum.
-→ NEW: Polymarket Agent — AI prediction market intelligence with edge detection.
-→ NEW: Liquidation Cascade — real-time liq feed with particle explosions. Screen shake. Cascade to NUCLEAR.
-→ Kill Zone: 20:00 UTC tonight — 98.4% SHORT WR (65 trades). Eyes on.
+→ BTC bouncing off $67K support. +2.6% on the day. Still well below $87K highs — recovery or dead cat?
+→ ETH back above $2K. Leading the bounce at +4.2%. First sign of life in weeks.
+→ SOL reclaiming $85. DeFi TVL holding, price finally catching a bid.
+→ DOGE +3.7% — meme strength returning with the rest of the market.
+→ ALL 6 live dashboards running: Liquidation Cascade, Whale Watcher, AlphaScope, Rug Detector, Arb Scanner, Polymarket Agent.
+→ Kill Zone: 20:00 UTC tonight — 98.4% SHORT WR (65 trades). Green day = potential fade setup.
 → Beast Brain: Hurst fractional analysis + RSI extremes scanning. RTX 5090 running 24/7.
 → Signal Engine: 1,000+ coins scanned every 3 min. Funding extremes + whale consensus live.
 → AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, run it in 3 commands.
