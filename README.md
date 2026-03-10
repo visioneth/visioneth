@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=650&lines=Solana+MCP+%E2%80%94+38+Tools+%7C+AI+Agent+Infrastructure;Whale+Watcher+%E2%80%94+Live+Solana+Whale+Tracking;Rug+Detector+%E2%80%94+Solana+Token+Safety+Scanner;Cross-Chain+Arb+%E2%80%94+4+Chains+Live;Polymarket+AI+Agent+%E2%80%94+Edge+Detection;Liquidation+Cascade+%E2%80%94+Watch+Traders+Get+Rekt;AlphaScope+%E2%80%94+Free+Live+Crypto+Intelligence+Dashboard;98.4%25+SHORT+Win+Rate+at+20%3A00+UTC+%7C+65+Trades;50%2C000%2B+Verified+Crypto+Whale+Wallets+Tracked;668+Funding+Extremes+Live+%7C+RTX+5090+Running+24%2F7;Building+AI+Agent+Infra+for+Solana+%7C+Open+Source" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=650&lines=Solana+MCP+%E2%80%94+38+Tools+%7C+AI+Agent+Infrastructure;Whale+Watcher+%E2%80%94+Live+Solana+Whale+Tracking;Rug+Detector+%E2%80%94+Solana+Token+Safety+Scanner;Cross-Chain+Arb+%E2%80%94+4+Chains+Live;Polymarket+AI+Agent+%E2%80%94+Edge+Detection;Liquidation+Cascade+%E2%80%94+Watch+Traders+Get+Rekt;SectorPulse+%E2%80%94+Institutional+Money+Flow+Tracker;Mission+Control+%E2%80%94+Multi-AI+Agent+Orchestration;AlphaScope+%E2%80%94+Free+Live+Crypto+Intelligence+Dashboard;98.4%25+SHORT+Win+Rate+at+20%3A00+UTC+%7C+65+Trades;50%2C000%2B+Verified+Crypto+Whale+Wallets+Tracked;668+Funding+Extremes+Live+%7C+RTX+5090+Running+24%2F7;Building+AI+Agent+Infra+for+Solana+%7C+Open+Source" />
 </p>
 
 <p align="center">
@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Polymarket%20Agent-AI%20EDGE-7733ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Liquidation%20Cascade-LIVE%20EXPLOSIONS-ff1744?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/AlphaScope-FREE%20%26%20OPEN%20SOURCE-7c3aed?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SectorPulse-S%26P%20SECTORS-00cc99?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mission%20Control-MULTI--AI-ff6600?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Kill%20Zone%20WR-98.4%25-brightgreen?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Whale%20Wallets-50%2C000%2B-purple?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardware-RTX%205090-76b900?style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -29,7 +31,7 @@
 ## Currently Building
 
 ```
-March 9, 2026 — Active Projects
+March 10, 2026 — Active Projects
 ```
 
 | Project | Status | What It Does |
@@ -40,6 +42,8 @@ March 9, 2026 — Active Projects
 | **[Cross-Chain Arb](https://visioneth.github.io/cross-chain-arb/)** | `🟢 NEW` | **Real-time arbitrage scanner** across Solana, Ethereum, BNB Chain, Arbitrum. Finds price gaps, calculates profit, chain status. 10 tokens tracked. [Live →](https://visioneth.github.io/cross-chain-arb/) |
 | **[Polymarket Agent](https://visioneth.github.io/polymarket-agent/)** | `🟢 NEW` | **AI prediction market intelligence.** Scans Polymarket for mispriced markets. Edge detection, sentiment gauge, AI reasoning output. [Live →](https://visioneth.github.io/polymarket-agent/) |
 | **[Liquidation Cascade](https://visioneth.github.io/liquidation-cascade/)** | `🔥 NEW` | **Watch crypto traders get liquidated in real-time.** Particle explosions, screen shake on mega liqs, cascade levels (Normal→NUCLEAR). 10 coins, 7 exchanges, 60fps chaos. [Live →](https://visioneth.github.io/liquidation-cascade/) |
+| **[SectorPulse](https://github.com/visioneth/sectorpulse)** | `🟢 NEW` | **Sector Rotation Intelligence.** Free live dashboard tracking where institutional money is flowing across all 11 S&P sectors. Spot rotations before price moves. |
+| **[V33X Mission Control](https://github.com/visioneth/V33X-Mission-Control)** | `🟢 NEW` | **AI Agent Mission Control.** Multi-provider orchestration dashboard for Claude, GPT-4o, Grok, DeepSeek, Gemini, Venice, Dolphin & FLUX. Run all your AI agents from one place. |
 | **V33X Beast Brain** | `🟢 LIVE` | **Full autonomous trading system.** Hurst fractional analysis for trend/mean-reversion regime detection, RSI extremes, macro signal integration, kill zone timing. All running 24/7 on RTX 5090. |
 | **[AlphaScope](https://github.com/visioneth/AlphaScope)** | `🟢 SHIPPED` | **Free, open source live crypto intelligence dashboard.** Matrix rain UI, real-time WebSocket feed, kill zone countdown (98.4% WR), funding heatmap across 668+ coins, whale consensus panel. Zero subscriptions. Clone and run. |
 | **BloFin Copy Trading** | `🟢 LIVE` | **Official KOL Partner.** 0% maker fees, 70% affiliate commission, 20% profit share. Beast Brain signals wired to copy trading executor. |
@@ -115,6 +119,8 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 | ⭐ **[Polymarket Agent](https://github.com/visioneth/polymarket-agent)** | **AI prediction market scanner. Edge detection, sentiment gauge, AI reasoning. 18 markets. [Live →](https://visioneth.github.io/polymarket-agent/)** |
 | 🔥 **[Liquidation Cascade](https://github.com/visioneth/liquidation-cascade)** | **Real-time liquidation feed with particle explosions. Screen shake on mega liqs. Cascade levels up to NUCLEAR. 10 coins, 7 exchanges. [Live →](https://visioneth.github.io/liquidation-cascade/)** |
 | ⭐ **[AlphaScope](https://github.com/visioneth/AlphaScope)** | **Free live crypto dashboard — kill zone countdown, funding heatmap, whale consensus. Real-time. No subscriptions. Clone it.** |
+| ⭐ **[SectorPulse](https://github.com/visioneth/sectorpulse)** | **Sector rotation intelligence — live dashboard tracking institutional money flow across all 11 S&P sectors. Free.** |
+| ⭐ **[V33X Mission Control](https://github.com/visioneth/V33X-Mission-Control)** | **AI agent orchestration dashboard — Claude, GPT-4o, Grok, DeepSeek, Gemini, Venice, Dolphin & FLUX from one cockpit.** |
 | [crypto-kill-zones](https://github.com/visioneth/crypto-kill-zones) | 98.4% SHORT WR at 20:00 UTC — 65 real trades, full breakdown |
 | [rsi-extreme-edge](https://github.com/visioneth/rsi-extreme-edge) | RSI reversal data across 138 real trades |
 | [follow-the-whales](https://github.com/visioneth/follow-the-whales) | 50,000+ verified whale wallets — free sample inside |
@@ -160,22 +166,23 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (March 9, 2026)
+## Current Market (March 10, 2026)
 
 ```
-BTC:  $68,798  (+2.59%)  |  ETH:  $2,015  (+4.21%)  |  SOL:  $84.95  (+4.03%)
-DOGE: $0.0916  (+3.71%)  |  24h Trend: GREEN — broad-based bounce across the board
+BTC:  $71,367  (+3.49%)  |  ETH:  $2,080  (+2.54%)  |  SOL:  $88.44  (+4.02%)
+DOGE: $0.0998  (+9.30%)  |  24h Trend: GREEN — rally day two, DOGE leading the charge
 
-Updated: March 9, 2026 — Live CoinGecko data
+Updated: March 10, 2026 — Live CoinGecko data
 
-→ BTC bouncing off $67K support. +2.6% on the day. Still well below $87K highs — recovery or dead cat?
-→ ETH back above $2K. Leading the bounce at +4.2%. First sign of life in weeks.
-→ SOL reclaiming $85. DeFi TVL holding, price finally catching a bid.
-→ DOGE +3.7% — meme strength returning with the rest of the market.
-→ ALL 6 live dashboards running: Liquidation Cascade, Whale Watcher, AlphaScope, Rug Detector, Arb Scanner, Polymarket Agent.
-→ Kill Zone: 20:00 UTC tonight — 98.4% SHORT WR (65 trades). Green day = potential fade setup.
+→ BTC pushing $71K. Two consecutive green days. Testing resistance after last week's flush.
+→ ETH holding $2,080. Steady grind back but still needs $2,200 to confirm trend reversal.
+→ SOL approaching $90. DeFi TVL holding, ecosystem activity picking up with the bid.
+→ DOGE +9.3% — best performer today. Meme rotation heating up fast.
+→ ALL 8 live dashboards running: Liquidation Cascade, Whale Watcher, AlphaScope, Rug Detector, Arb Scanner, Polymarket Agent, SectorPulse, Mission Control.
+→ Kill Zone: 20:00 UTC tonight — 98.4% SHORT WR (65 trades). Back-to-back green = prime fade setup.
 → Beast Brain: Hurst fractional analysis + RSI extremes scanning. RTX 5090 running 24/7.
 → Signal Engine: 1,000+ coins scanned every 3 min. Funding extremes + whale consensus live.
+→ NEW: SectorPulse — institutional money flow across all 11 S&P sectors. Free and open source.
 → AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, run it in 3 commands.
 ```
 
