@@ -31,7 +31,7 @@
 ## Currently Building
 
 ```
-March 19, 2026 — Active Projects
+March 22, 2026 — Active Projects
 ```
 
 | Project | Status | What It Does |
@@ -46,6 +46,7 @@ March 19, 2026 — Active Projects
 | **[V33X Mission Control](https://github.com/visioneth/V33X-Mission-Control)** | `🟢 NEW` | **AI Agent Mission Control.** Multi-provider orchestration dashboard for Claude, GPT-4o, Grok, DeepSeek, Gemini, Venice, Dolphin & FLUX. Run all your AI agents from one place. |
 | **V33X Beast Brain** | `🟢 LIVE` | **Full autonomous trading system.** Hurst fractional analysis for trend/mean-reversion regime detection, RSI extremes, macro signal integration, kill zone timing. All running 24/7 on RTX 5090. |
 | **[AlphaScope](https://github.com/visioneth/AlphaScope)** | `🟢 SHIPPED` | **Free, open source live crypto intelligence dashboard.** Matrix rain UI, real-time WebSocket feed, kill zone countdown (98.4% WR), funding heatmap across 668+ coins, whale consensus panel. Zero subscriptions. Clone and run. |
+| **[Unchained News](https://unchained-news.mjr66221.workers.dev)** | `🟢 LIVE` | **AI-powered crypto, politics & tech news aggregator.** 13 RSS feeds, live crypto + stock tickers, data widgets, article pages. Built on Cloudflare Workers. |
 | **BloFin Copy Trading** | `🟢 LIVE` | **Official KOL Partner.** 0% maker fees, 70% affiliate commission, 20% profit share. Beast Brain signals wired to copy trading executor. |
 | **[CryptoHandlesUS](https://tight-sunset-89d5.mjr66221.workers.dev)** | `🟢 LIVE` | Social media handles marketplace — TikTok, Instagram, X/Twitter. Crypto-only payments (ASTR, BNB). Built on Cloudflare Workers. |
 | **Signal Engine v2** | `🟢 LIVE` | Scans 1,000+ coins via CoinGlass funding extremes + RSI. 668 extremes live. Historical Z-scores wired in. FUNDING FARM signals fire to executor. |
@@ -166,25 +167,25 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (March 20, 2026)
+## Current Market (March 22, 2026)
 
 ```
-BTC:  $70,598  (-1.1%)  |  ETH:  $2,151  (-3.2%)  |  SOL:  $89.48  (-1.8%)
-DOGE: $0.0900  (-1.6%)  |  24h Trend: Consolidation — holding key levels after pullback
+BTC:  $68,153  (-3.1%)  |  ETH:  $2,056  (-4.4%)  |  SOL:  $86.42  (-4.0%)
+DOGE: $0.0903  (-4.1%)  |  XRP:  $1.39   (-3.7%)  |  LINK: $8.70   (-4.2%)
 
-Updated: March 20, 2026 — Live CoinGecko data
+Updated: March 22, 2026 — Live CoinGecko data
 
-→ BTC $70.6K — consolidating above $70K. Range-bound between $69K-$72K. Accumulation zone.
-→ ETH $2,151 — holding $2,100 support. Watching for $2,300 breakout or $2,000 retest.
-→ SOL $89 — testing $85-$90 range. DeFi activity still elevated on-chain.
-→ DOGE $0.09 — flat, waiting for catalyst. Meme sector quiet.
-→ Dedicated AI office operational — full workstation relocated, clean setup.
-→ VisoMaster live face swap engine installed on RTX 5090. Real-time deepfake pipeline.
-→ Qwen 3.5 35B running locally via LM Studio + RAG pipeline with ChromaDB.
-→ DXcam GPU screen capture + pyautogui automation — full autonomous PC control stack.
-→ EternalMemory V2: 165 memories, FAISS vectors, beating Aegis 0.763 vs 0.734.
+→ BTC $68.2K — broke below $70K support. Watching $67K as next level. Risk-off day across the board.
+→ ETH $2,056 — slipped under $2,100. $2,000 is the line in the sand. Bearish pressure.
+→ SOL $86 — dipped below $87. $85 support critical. On-chain activity still strong but price lagging.
+→ DOGE $0.09 — holding flat despite broader weakness. Meme sector showing relative strength.
+→ XRP $1.39 — pulling back with the market. SEC clarity priced in, now trading macro.
+→ AVAX $9.05 — under $10 again. Subnet narrative quiet.
+→ Unchained News live — AI-powered crypto/politics/tech news aggregator. 13 RSS feeds.
+→ VisoMaster live face swap engine running on RTX 5090. Real-time deepfake pipeline.
+→ Full PC autonomy via Windows-MCP + DXcam — screen control, app automation, 240 FPS capture.
 → ALL 8 live dashboards running: Liquidation Cascade, Whale Watcher, AlphaScope + more.
-→ Kill Zone: 20:00 UTC — 98.4% SHORT WR (65 trades). Consolidation = watch for breakout.
+→ Kill Zone: 20:00 UTC — 98.4% SHORT WR (65 trades). Red day = watch for reversal setups.
 → Beast Brain: Hurst fractional analysis + RSI extremes scanning. RTX 5090 running 24/7.
 → Signal Engine: 1,000+ coins scanned every 3 min. Funding extremes + whale consensus live.
 → AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, run it in 3 commands.
