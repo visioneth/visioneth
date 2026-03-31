@@ -31,11 +31,14 @@
 ## Currently Building
 
 ```
-March 22, 2026 — Active Projects
+March 31, 2026 — Active Projects
 ```
 
 | Project | Status | What It Does |
 |---------|--------|-------------|
+| **[PulseOnX](https://pulseonx.ai)** | `🔥 BUILDING` | **The ultimate crypto toolkit for X/Twitter.** AI-powered tweets, scheduling, analytics, revenue tracking, crypto alerts, live markets. Next.js + Supabase + Cloudflare. Paid SaaS — $19.99/mo. |
+| **[AI Breaking News](https://aibreakingnews.ai)** | `🟢 LIVE` | **24/7 AI-powered crypto, politics & tech news.** Grok-rewritten headlines, auto-posting to X (@BTCNews2013, 36.6K followers), whale alerts, live crypto tickers. Cloudflare Workers. |
+| **V33X LLC** | `🟢 ACTIVE` | **The parent company.** All products, all builds, all infrastructure. South Florida. |
 | **[Solana MCP Server](https://visioneth.github.io/solana-mcp/)** | `🟢 NEW` | **The most comprehensive Solana MCP server.** 38 tools, 10 prompts, 7 modules. Give any AI agent (Claude, Cursor) full access to Solana — wallets, tokens, DeFi swaps, NFTs, analytics. [Live demo →](https://visioneth.github.io/solana-mcp/) |
 | **[Whale Watcher](https://visioneth.github.io/whale-watcher/)** | `🟢 NEW` | **Real-time Solana whale tracking dashboard.** Live SOL price, TPS, whale wallet balances, transaction feed, alert system. Tracks Binance, Coinbase, Kraken, Jump Trading, Wintermute. [Live →](https://visioneth.github.io/whale-watcher/) |
 | **[Rug Pull Detector](https://visioneth.github.io/rug-pull-detector/)** | `🟢 NEW` | **Solana token safety scanner.** Scores new tokens 0-100 for rug pull risk. Checks mint authority, liquidity locks, holder concentration, LP burn. Radar sweep animation. [Live →](https://visioneth.github.io/rug-pull-detector/) |
@@ -167,25 +170,23 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (March 22, 2026)
+## Current Market (March 31, 2026)
 
 ```
-BTC:  $68,153  (-3.1%)  |  ETH:  $2,056  (-4.4%)  |  SOL:  $86.42  (-4.0%)
-DOGE: $0.0903  (-4.1%)  |  XRP:  $1.39   (-3.7%)  |  LINK: $8.70   (-4.2%)
+BTC:  $67,795  (+0.7%)  |  ETH:  $2,097  (+1.6%)  |  SOL:  $81.69  (-2.8%)
 
-Updated: March 22, 2026 — Live CoinGecko data
+Updated: March 31, 2026 — Live CoinGecko data
 
-→ BTC $68.2K — broke below $70K support. Watching $67K as next level. Risk-off day across the board.
-→ ETH $2,056 — slipped under $2,100. $2,000 is the line in the sand. Bearish pressure.
-→ SOL $86 — dipped below $87. $85 support critical. On-chain activity still strong but price lagging.
-→ DOGE $0.09 — holding flat despite broader weakness. Meme sector showing relative strength.
-→ XRP $1.39 — pulling back with the market. SEC clarity priced in, now trading macro.
-→ AVAX $9.05 — under $10 again. Subnet narrative quiet.
-→ Unchained News live — AI-powered crypto/politics/tech news aggregator. 13 RSS feeds.
-→ VisoMaster live face swap engine running on RTX 5090. Real-time deepfake pipeline.
+→ BTC $67.8K — grinding sideways near $68K. Q1 close day. Holding above $67K support.
+→ ETH $2,097 — green day, reclaiming $2,100. Watch for continuation above $2,150.
+→ SOL $81.69 — slipping below $82. $80 is the line. Needs a bounce here.
+→ PulseOnX (pulseonx.ai) — crypto toolkit for X in active build. AI tweets, scheduling, analytics. Paid SaaS.
+→ AI Breaking News (aibreakingnews.ai) — live 24/7. Grok-rewritten headlines auto-posting to @BTCNews2013 (36.6K followers).
+→ V33X LLC — all products shipping under one roof. South Florida.
+→ VisoMaster live face swap engine running on RTX 5090. Real-time pipeline.
 → Full PC autonomy via Windows-MCP + DXcam — screen control, app automation, 240 FPS capture.
 → ALL 8 live dashboards running: Liquidation Cascade, Whale Watcher, AlphaScope + more.
-→ Kill Zone: 20:00 UTC — 98.4% SHORT WR (65 trades). Red day = watch for reversal setups.
+→ Kill Zone: 20:00 UTC — 98.4% SHORT WR (65 trades). End of Q1 — watch for positioning.
 → Beast Brain: Hurst fractional analysis + RSI extremes scanning. RTX 5090 running 24/7.
 → Signal Engine: 1,000+ coins scanned every 3 min. Funding extremes + whale consensus live.
 → AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, run it in 3 commands.
