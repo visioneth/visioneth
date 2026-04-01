@@ -31,12 +31,14 @@
 ## Currently Building
 
 ```
-March 31, 2026 — Active Projects
+April 1, 2026 — Active Projects | BTC $68,155 | ETH $2,118 | SOL $82.67 | Fear & Greed: 8 (Extreme Fear)
 ```
 
 | Project | Status | What It Does |
 |---------|--------|-------------|
-| **[PulseOnX](https://pulseonx.ai)** | `🔥 BUILDING` | **The ultimate crypto toolkit for X/Twitter.** AI-powered tweets, scheduling, analytics, revenue tracking, crypto alerts, live markets. Next.js + Supabase + Cloudflare. Paid SaaS — $19.99/mo. |
+| **[PulseOnX](https://pulseonx.ai)** | `🔥 LAUNCHING` | **The ultimate crypto toolkit for X/Twitter.** AI-powered tweets (Grok), scheduling, live markets, crypto alerts, Viral Tweet DNA Analyzer, meme studio. Next.js + Supabase. Paid SaaS — $19.99/mo. App Store submission imminent. |
+| **Crypto Crush** | `🔥 BUILDING` | **Match-3 puzzle game with crypto coins.** Candy Crush quality with BTC/ETH/SOL gems, rug pull mechanics, whale alerts, degen coins, PvP arena, portfolio tracker with live CoinGecko prices. Unity. |
+| **SleepPulse** | `📋 PLANNED` | **AI-powered white noise & sleep app.** Dynamic sound mixing, sleep recording + social sharing, adaptive UI, binaural beats. React Native + Expo. |
 | **[AI Breaking News](https://aibreakingnews.ai)** | `🟢 LIVE` | **24/7 AI-powered crypto, politics & tech news.** Grok-rewritten headlines, auto-posting to X (@BTCNews2013, 36.6K followers), whale alerts, live crypto tickers. Cloudflare Workers. |
 | **V33X LLC** | `🟢 ACTIVE` | **The parent company.** All products, all builds, all infrastructure. South Florida. |
 | **[Solana MCP Server](https://visioneth.github.io/solana-mcp/)** | `🟢 NEW` | **The most comprehensive Solana MCP server.** 38 tools, 10 prompts, 7 modules. Give any AI agent (Claude, Cursor) full access to Solana — wallets, tokens, DeFi swaps, NFTs, analytics. [Live demo →](https://visioneth.github.io/solana-mcp/) |
