@@ -31,7 +31,7 @@
 ## Currently Building
 
 ```
-April 1, 2026 — Active Projects | BTC $68,155 | ETH $2,118 | SOL $82.67 | Fear & Greed: 8 (Extreme Fear)
+April 2, 2026 — Active Projects | BTC $66,890 | ETH $2,060 | SOL $78.70 | Market: Risk-Off
 ```
 
 | Project | Status | What It Does |
@@ -172,23 +172,23 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (March 31, 2026)
+## Current Market (April 2, 2026)
 
 ```
-BTC:  $67,795  (+0.7%)  |  ETH:  $2,097  (+1.6%)  |  SOL:  $81.69  (-2.8%)
+BTC:  $66,890  (-2.7%)  |  ETH:  $2,060  (-3.4%)  |  SOL:  $78.70  (-5.8%)
 
-Updated: March 31, 2026 — Live CoinGecko data
+Updated: April 2, 2026 — Live CoinGecko data
 
-→ BTC $67.8K — grinding sideways near $68K. Q1 close day. Holding above $67K support.
-→ ETH $2,097 — green day, reclaiming $2,100. Watch for continuation above $2,150.
-→ SOL $81.69 — slipping below $82. $80 is the line. Needs a bounce here.
-→ PulseOnX (pulseonx.ai) — crypto toolkit for X in active build. AI tweets, scheduling, analytics. Paid SaaS.
+→ BTC $66.9K — sold off below $67K. Bears in control, watching $65K support. Q2 opens weak.
+→ ETH $2,060 — rejected at $2,100, sliding. Needs to hold $2,000 or it gets ugly.
+→ SOL $78.70 — broke below $80 support. Heaviest hit of the three. -5.8% in 24h.
+→ PulseOnX (pulseonx.ai) — crypto toolkit for X in active build. AI tweets, scheduling, analytics. Paid SaaS — $19.99/mo.
 → AI Breaking News (aibreakingnews.ai) — live 24/7. Grok-rewritten headlines auto-posting to @BTCNews2013 (36.6K followers).
 → V33X LLC — all products shipping under one roof. South Florida.
 → VisoMaster live face swap engine running on RTX 5090. Real-time pipeline.
 → Full PC autonomy via Windows-MCP + DXcam — screen control, app automation, 240 FPS capture.
 → ALL 8 live dashboards running: Liquidation Cascade, Whale Watcher, AlphaScope + more.
-→ Kill Zone: 20:00 UTC — 98.4% SHORT WR (65 trades). End of Q1 — watch for positioning.
+→ Kill Zone: 20:00 UTC — 98.4% SHORT WR (65 trades). Risk-off environment = short bias.
 → Beast Brain: Hurst fractional analysis + RSI extremes scanning. RTX 5090 running 24/7.
 → Signal Engine: 1,000+ coins scanned every 3 min. Funding extremes + whale consensus live.
 → AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, run it in 3 commands.
