@@ -31,15 +31,14 @@
 ## Currently Building
 
 ```
-April 2, 2026 — Active Projects | BTC $66,890 | ETH $2,060 | SOL $78.70 | Market: Risk-Off
+April 5, 2026 — Easter Sunday | BTC $67,942 | ETH $2,071 | SOL $79.86 | DOGE $0.0907
 ```
 
 | Project | Status | What It Does |
 |---------|--------|-------------|
-| **[PulseOnX](https://pulseonx.ai)** | `🔥 LAUNCHING` | **The ultimate crypto toolkit for X/Twitter.** AI-powered tweets (Grok), scheduling, live markets, crypto alerts, Viral Tweet DNA Analyzer, meme studio. Next.js + Supabase. Paid SaaS — $19.99/mo. App Store submission imminent. |
-| **Crypto Crush** | `🔥 BUILDING` | **Match-3 puzzle game with crypto coins.** Candy Crush quality with BTC/ETH/SOL gems, rug pull mechanics, whale alerts, degen coins, PvP arena, portfolio tracker with live CoinGecko prices. Unity. |
-| **SleepPulse** | `📋 PLANNED` | **AI-powered white noise & sleep app.** Dynamic sound mixing, sleep recording + social sharing, adaptive UI, binaural beats. React Native + Expo. |
+| **[PulseOnX](https://pulseonx.ai)** | `🟢 LIVE` | **The ultimate crypto toolkit for X/Twitter.** AI-powered tweets (Grok), scheduling, live markets, crypto alerts, Viral Tweet DNA Analyzer, meme studio. Next.js + Supabase. Paid SaaS — $19.99/mo. |
 | **[AI Breaking News](https://aibreakingnews.ai)** | `🟢 LIVE` | **24/7 AI-powered crypto, politics & tech news.** Grok-rewritten headlines, auto-posting to X (@BTCNews2013, 36.6K followers), whale alerts, live crypto tickers. Cloudflare Workers. |
+| **[Crypto Crush](https://cryptocrush.ai)** | `🔥 COMING SOON` | **Match-3 puzzle game with crypto coins.** Candy Crush quality with BTC/ETH/SOL gems, rug pull mechanics, whale alerts, degen coins, PvP arena, portfolio tracker with live CoinGecko prices. Unity. |
 | **V33X LLC** | `🟢 ACTIVE` | **The parent company.** All products, all builds, all infrastructure. South Florida. |
 | **[Solana MCP Server](https://visioneth.github.io/solana-mcp/)** | `🟢 NEW` | **The most comprehensive Solana MCP server.** 38 tools, 10 prompts, 7 modules. Give any AI agent (Claude, Cursor) full access to Solana — wallets, tokens, DeFi swaps, NFTs, analytics. [Live demo →](https://visioneth.github.io/solana-mcp/) |
 | **[Whale Watcher](https://visioneth.github.io/whale-watcher/)** | `🟢 NEW` | **Real-time Solana whale tracking dashboard.** Live SOL price, TPS, whale wallet balances, transaction feed, alert system. Tracks Binance, Coinbase, Kraken, Jump Trading, Wintermute. [Live →](https://visioneth.github.io/whale-watcher/) |
@@ -172,23 +171,23 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (April 2, 2026)
+## Current Market (April 5, 2026 — Easter Sunday)
 
 ```
-BTC:  $66,890  (-2.7%)  |  ETH:  $2,060  (-3.4%)  |  SOL:  $78.70  (-5.8%)
+BTC:  $67,942  (+0.80%)  |  ETH:  $2,071  (+0.11%)  |  SOL:  $79.86  (-1.35%)  |  DOGE:  $0.0907  (-1.43%)
 
-Updated: April 2, 2026 — Live CoinGecko data
+Updated: April 5, 2026 — Live CoinGecko data
 
-→ BTC $66.9K — sold off below $67K. Bears in control, watching $65K support. Q2 opens weak.
-→ ETH $2,060 — rejected at $2,100, sliding. Needs to hold $2,000 or it gets ugly.
-→ SOL $78.70 — broke below $80 support. Heaviest hit of the three. -5.8% in 24h.
-→ PulseOnX (pulseonx.ai) — crypto toolkit for X in active build. AI tweets, scheduling, analytics. Paid SaaS — $19.99/mo.
-→ AI Breaking News (aibreakingnews.ai) — live 24/7. Grok-rewritten headlines auto-posting to @BTCNews2013 (36.6K followers).
+→ BTC $67.9K — reclaimed $67K, slight green on the day. Holding above support into the holiday weekend.
+→ ETH $2,071 — flat, grinding sideways. $2,000 remains the line in the sand.
+→ SOL $79.86 — still under $80, modest weakness. Needs to reclaim and hold.
+→ DOGE $0.0907 — bleeding slowly, -1.4% on the day. Meme sector quiet.
+→ PulseOnX (pulseonx.ai) — LIVE. Crypto toolkit for X. AI tweets, scheduling, analytics. $19.99/mo.
+→ AI Breaking News (aibreakingnews.ai) — LIVE 24/7. Grok headlines auto-posting to @BTCNews2013 (36.6K followers).
+→ Crypto Crush (cryptocrush.ai) — COMING SOON. Match-3 crypto puzzle game.
 → V33X LLC — all products shipping under one roof. South Florida.
-→ VisoMaster live face swap engine running on RTX 5090. Real-time pipeline.
-→ Full PC autonomy via Windows-MCP + DXcam — screen control, app automation, 240 FPS capture.
 → ALL 8 live dashboards running: Liquidation Cascade, Whale Watcher, AlphaScope + more.
-→ Kill Zone: 20:00 UTC — 98.4% SHORT WR (65 trades). Risk-off environment = short bias.
+→ Kill Zone: 20:00 UTC — 98.4% SHORT WR (65 trades). Holiday weekend = low liquidity, watch for wicks.
 → Beast Brain: Hurst fractional analysis + RSI extremes scanning. RTX 5090 running 24/7.
 → Signal Engine: 1,000+ coins scanned every 3 min. Funding extremes + whale consensus live.
 → AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, run it in 3 commands.
