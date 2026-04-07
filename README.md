@@ -31,7 +31,7 @@
 ## Currently Building
 
 ```
-April 5, 2026 — Easter Sunday | BTC $67,942 | ETH $2,071 | SOL $79.86 | DOGE $0.0907
+April 7, 2026 — Monday | BTC $68,148 | ETH $2,080 | SOL $78.80 | DOGE $0.0904
 ```
 
 | Project | Status | What It Does |
@@ -171,23 +171,25 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 
 ---
 
-## Current Market (April 5, 2026 — Easter Sunday)
+## Current Market (April 7, 2026 — Monday)
 
 ```
-BTC:  $67,942  (+0.80%)  |  ETH:  $2,071  (+0.11%)  |  SOL:  $79.86  (-1.35%)  |  DOGE:  $0.0907  (-1.43%)
+BTC:  $68,148  (-2.39%)  |  ETH:  $2,080  (-2.86%)  |  SOL:  $78.80  (-3.45%)  |  DOGE:  $0.0904  (-2.11%)
 
-Updated: April 5, 2026 — Live CoinGecko data
+Updated: April 7, 2026 — Live CryptoCompare data
 
-→ BTC $67.9K — reclaimed $67K, slight green on the day. Holding above support into the holiday weekend.
-→ ETH $2,071 — flat, grinding sideways. $2,000 remains the line in the sand.
-→ SOL $79.86 — still under $80, modest weakness. Needs to reclaim and hold.
-→ DOGE $0.0907 — bleeding slowly, -1.4% on the day. Meme sector quiet.
+→ BTC $68.1K — holding above $68K but red across the board post-Easter. Support at $67K needs to hold.
+→ ETH $2,080 — slipping below $2.1K, -2.9% on the day. $2,000 remains the critical floor.
+→ SOL $78.80 — dropped under $79, -3.5%. Weakest of the majors today. Needs $80 reclaim.
+→ DOGE $0.0904 — slow bleed continues, meme sector still quiet. Sub-$0.09 gets ugly.
+→ XRP $1.30 — -3.5%, worst performer. Broad risk-off mood across altcoins.
+→ Monday open selloff — post-holiday liquidity returning, watch for continuation or reversal into US session.
 → PulseOnX (pulseonx.ai) — LIVE. Crypto toolkit for X. AI tweets, scheduling, analytics. $19.99/mo.
 → AI Breaking News (aibreakingnews.ai) — LIVE 24/7. Grok headlines auto-posting to @BTCNews2013 (36.6K followers).
 → Crypto Crush (cryptocrush.ai) — COMING SOON. Match-3 crypto puzzle game.
 → V33X LLC — all products shipping under one roof. South Florida.
 → ALL 8 live dashboards running: Liquidation Cascade, Whale Watcher, AlphaScope + more.
-→ Kill Zone: 20:00 UTC — 98.4% SHORT WR (65 trades). Holiday weekend = low liquidity, watch for wicks.
+→ Kill Zone: 20:00 UTC — 98.4% SHORT WR (65 trades). Red day = stay sharp at kill zones.
 → Beast Brain: Hurst fractional analysis + RSI extremes scanning. RTX 5090 running 24/7.
 → Signal Engine: 1,000+ coins scanned every 3 min. Funding extremes + whale consensus live.
 → AlphaScope: FREE — github.com/visioneth/AlphaScope — clone it, run it in 3 commands.
