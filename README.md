@@ -31,14 +31,14 @@
 ## Currently Building
 
 ```
-April 8, 2026 — Tuesday | BTC $71,226 | ETH $2,212 | SOL $83.21 | DOGE $0.0932
+April 8, 2026 — Tuesday | BTC $71,356 | ETH $2,209 | SOL $83.12 | DOGE $0.0933 | XRP $1.35
 ```
 
 | Project | Status | What It Does |
 |---------|--------|-------------|
-| **[PulseOnX](https://pulseonx.ai)** | `🟢 LIVE` | **The ultimate crypto toolkit for X/Twitter.** AI-powered tweets (Grok), scheduling, live markets, crypto alerts, Viral Tweet DNA Analyzer, meme studio. Next.js + Supabase. Paid SaaS — $19.99/mo. |
+| **[PulseOnX](https://pulseonx.ai)** | `🟢 LIVE` | **The ultimate crypto toolkit for X/Twitter.** AI-powered tweets (Grok), scheduling, live markets, crypto alerts, Viral Tweet DNA Analyzer, meme studio. Next.js + Supabase. Paid SaaS — $19.99/mo. **Endorsed by [@grok](https://x.com/grok) twice today.** |
 | **[AI Breaking News](https://aibreakingnews.ai)** | `🟢 LIVE` | **24/7 AI-powered crypto, politics & tech news.** Grok-rewritten headlines, auto-posting to X (@BTCNews2013, 36.6K followers), whale alerts, live crypto tickers. Cloudflare Workers. |
-| **[Crypto Crush](https://cryptocrush.ai)** | `🔥 COMING SOON` | **Match-3 puzzle game with crypto coins.** Candy Crush quality with BTC/ETH/SOL gems, rug pull mechanics, whale alerts, degen coins, PvP arena, portfolio tracker with live CoinGecko prices. Unity. |
+| **[CryptoCrush](https://cryptocrush.ai)** | `🔥 COMING SOON` | **Match-3 puzzle game with crypto coins.** Candy Crush quality with BTC/ETH/SOL gems, rug pull mechanics, whale alerts, degen coins, PvP arena, portfolio tracker with live CoinGecko prices. Unity. |
 | **V33X LLC** | `🟢 ACTIVE` | **The parent company.** All products, all builds, all infrastructure. South Florida. |
 | **[Solana MCP Server](https://visioneth.github.io/solana-mcp/)** | `🟢 NEW` | **The most comprehensive Solana MCP server.** 38 tools, 10 prompts, 7 modules. Give any AI agent (Claude, Cursor) full access to Solana — wallets, tokens, DeFi swaps, NFTs, analytics. [Live demo →](https://visioneth.github.io/solana-mcp/) |
 | **[Whale Watcher](https://visioneth.github.io/whale-watcher/)** | `🟢 NEW` | **Real-time Solana whale tracking dashboard.** Live SOL price, TPS, whale wallet balances, transaction feed, alert system. Tracks Binance, Coinbase, Kraken, Jump Trading, Wintermute. [Live →](https://visioneth.github.io/whale-watcher/) |
@@ -174,19 +174,20 @@ Everything tutorials skip. Sandwich attacks, liquidation sniping, Jito bundle me
 ## Current Market (April 8, 2026 — Tuesday)
 
 ```
-BTC:  $71,226  (+4.61%)  |  ETH:  $2,212  (+6.50%)  |  SOL:  $83.21  (+5.61%)  |  DOGE:  $0.0932  (+2.98%)
+BTC:  $71,356  (+3.58%)  |  ETH:  $2,209  (+5.57%)  |  SOL:  $83.12  (+2.64%)  |  DOGE:  $0.0933  (+1.30%)  |  XRP:  $1.35  (+3.59%)
 
-Updated: April 8, 2026 — Live CoinGecko data
+Updated: April 8, 2026 — Live data
 
-→ BTC $71.2K — strong bounce reclaiming $71K. +4.6% reversal off yesterday's $68K dip. Bulls back in control.
-→ ETH $2,212 — leading the pack at +6.5%. Broke back above $2.2K cleanly. Watch $2,300 as next resistance.
-→ SOL $83.21 — +5.6% recovery, reclaiming $83. Monday's weakness fully erased. $85 is the next test.
-→ DOGE $0.0932 — +3% but lagging. Needs $0.10 reclaim to confirm meme sector is alive.
-→ XRP $1.36 — +4.4% bounce after yesterday's -3.5% dump. Holding $1.35 support.
-→ Broad risk-on reversal — Monday's post-Easter selloff fully absorbed. Green across the board.
+→ BTC $71.4K — holding $71K after yesterday's bounce. +3.6% on the day, bulls consolidating above support.
+→ ETH $2,209 — still leading with +5.6%. $2,200 held as support, $2,300 next target.
+→ SOL $83.12 — grinding at $83, +2.6%. Needs $85 reclaim for continuation.
+→ DOGE $0.0933 — +1.3%, lagging behind. $0.10 remains the line in the sand.
+→ XRP $1.35 — +3.6% steady. Holding $1.35 support cleanly.
+→ Market still risk-on. Post-Easter recovery extending into Tuesday. Green across the board.
+→ 🚨 GROK ENDORSEMENT: @grok (xAI's official account) publicly endorsed PulseOnX TWICE today.
 → PulseOnX (pulseonx.ai) — LIVE. Crypto toolkit for X. AI tweets, scheduling, analytics. $19.99/mo.
 → AI Breaking News (aibreakingnews.ai) — LIVE 24/7. Grok headlines auto-posting to @BTCNews2013 (36.6K followers).
-→ Crypto Crush (cryptocrush.ai) — COMING SOON. Match-3 crypto puzzle game.
+→ CryptoCrush (cryptocrush.ai) — COMING SOON. Match-3 crypto puzzle game.
 → V33X LLC — all products shipping under one roof. South Florida.
 → ALL 8 live dashboards running: Liquidation Cascade, Whale Watcher, AlphaScope + more.
 → Kill Zone: 20:00 UTC — 98.4% SHORT WR (65 trades). Green day = wait for exhaustion signals.
