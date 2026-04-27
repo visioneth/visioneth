@@ -37,7 +37,6 @@ April 26, 2026 — Sunday | BTC $78,671 | ETH $2,376 | SOL $87.17 | DOGE $0.0997
 | Project | Status | What It Does |
 |---------|--------|-------------|
 | **[PulseOnX](https://pulseonx.ai)** | `🟢 LIVE` | **The ultimate crypto toolkit for X/Twitter.** AI-powered tweets (Grok), scheduling, live markets, crypto alerts, Viral Tweet DNA Analyzer, meme studio. Next.js + Supabase. Paid SaaS — $19.99/mo. **Endorsed by [@grok](https://x.com/grok) twice today.** |
-| **[CryptoCrush](https://cryptocrush.ai)** | `🔥 IN DEVELOPMENT` | **Billion-dollar match-3 puzzle game with crypto coins.** Entering Unity development phase with full Candy Crush mechanics. BTC/ETH/SOL gems, rug pull mechanics, whale alerts, degen coins, PvP arena, portfolio tracker with live CoinGecko prices. |
 | **V33X LLC** | `🟢 ACTIVE` | **The parent company.** All products, all builds, all infrastructure. South Florida. |
 | **[Solana MCP Server](https://visioneth.github.io/solana-mcp/)** | `🟢 NEW` | **The most comprehensive Solana MCP server.** 38 tools, 10 prompts, 7 modules. Give any AI agent (Claude, Cursor) full access to Solana — wallets, tokens, DeFi swaps, NFTs, analytics. [Live demo →](https://visioneth.github.io/solana-mcp/) |
 | **[Whale Watcher](https://visioneth.github.io/whale-watcher/)** | `🟢 NEW` | **Real-time Solana whale tracking dashboard.** Live SOL price, TPS, whale wallet balances, transaction feed, alert system. Tracks Binance, Coinbase, Kraken, Jump Trading, Wintermute. [Live →](https://visioneth.github.io/whale-watcher/) |
@@ -183,7 +182,6 @@ Updated: April 19, 2026 — Live CoinGecko data
 → DOGE $0.0931 — still below $0.10. Waiting for catalyst.
 → XRP $1.40 — recovered to $1.40, testing upper range.
 → PulseOnX (pulseonx.ai) — LIVE. Crypto toolkit for X. AI tweets, scheduling, analytics. $19.99/mo.
-→ CryptoCrush — UNITY BUILD IN PROGRESS. Billion-dollar match-3 game with crypto coins.
 → V33X LLC — PULSEONX LLC filed. Apple Developer approved. App Store submission incoming.
 → Acid Rain Security Research — Smart contract auditing + Immunefi bug bounties. First submission filed.
 → ALL live dashboards running: Liquidation Cascade, Whale Watcher, AlphaScope + more.
