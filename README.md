@@ -2,9 +2,17 @@
 
 **Builder · South Florida · AI × Solana**
 
-I build the tools I actually run — real-time on-chain intelligence, AI agents with full chain access, and statistically-backed trading edges. Infrastructure over hype. Building in public.
-
 `TypeScript` · `Python` · `Solana` · `MCP / AI Agents` · `FastAPI` · `WebSockets` · `On-chain RPC`
+
+---
+
+## Who I am
+
+A builder with a bias toward shipping. I've spent years at the edge of markets and code — trading crypto through every cycle, then building the on-chain intelligence and AI agents I wished already existed. Self-taught, battle-tested, still shipping. South Florida.
+
+I care about **infrastructure, not vanity tokens** — the rails that make base-layer assets actually matter. Real data over hype. Tools that run live, not demos. The unglamorous stuff that compounds.
+
+I'm the operator who reads the chain himself, backtests the edge before risking a dollar, and builds in public. Not a KOL, not a shiller — a guy who ships, measures, and sharpens. AI is the leverage; Solana is the rails; the edge is earned.
 
 ---
 
